@@ -1,0 +1,300 @@
+﻿namespace WindowsFormsApplication2
+{
+    partial class frmRecibo
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmRecibo));
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.panel2 = new System.Windows.Forms.Panel();
+            this.txtContrato = new System.Windows.Forms.TextBox();
+            this.label3 = new System.Windows.Forms.Label();
+            this.numericUpDown1 = new System.Windows.Forms.NumericUpDown();
+            this.label2 = new System.Windows.Forms.Label();
+            this.comboBox1 = new System.Windows.Forms.ComboBox();
+            this.pbxCliente = new System.Windows.Forms.PictureBox();
+            this.txtContador = new System.Windows.Forms.TextBox();
+            this.label1 = new System.Windows.Forms.Label();
+            this.txtNombre = new System.Windows.Forms.TextBox();
+            this.lblNombrePar = new System.Windows.Forms.Label();
+            this.pnlInsertar = new System.Windows.Forms.Panel();
+            this.lblGuardar = new System.Windows.Forms.Label();
+            this.pbGuardar = new System.Windows.Forms.PictureBox();
+            this.reportViewer1 = new Microsoft.Reporting.WinForms.ReportViewer();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            this.panel2.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pbxCliente)).BeginInit();
+            this.pnlInsertar.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pbGuardar)).BeginInit();
+            this.SuspendLayout();
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = global::WindowsFormsApplication2.Properties.Resources.Barra_Inferior;
+            this.pictureBox1.Location = new System.Drawing.Point(-1, 491);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(800, 75);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
+            this.pictureBox1.TabIndex = 5;
+            this.pictureBox1.TabStop = false;
+            // 
+            // panel2
+            // 
+            this.panel2.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.panel2.Controls.Add(this.txtContrato);
+            this.panel2.Controls.Add(this.label3);
+            this.panel2.Controls.Add(this.numericUpDown1);
+            this.panel2.Controls.Add(this.label2);
+            this.panel2.Controls.Add(this.comboBox1);
+            this.panel2.Controls.Add(this.pbxCliente);
+            this.panel2.Controls.Add(this.txtContador);
+            this.panel2.Controls.Add(this.label1);
+            this.panel2.Controls.Add(this.txtNombre);
+            this.panel2.Controls.Add(this.lblNombrePar);
+            this.panel2.Location = new System.Drawing.Point(54, 69);
+            this.panel2.Name = "panel2";
+            this.panel2.Size = new System.Drawing.Size(678, 419);
+            this.panel2.TabIndex = 7;
+            // 
+            // txtContrato
+            // 
+            this.txtContrato.Enabled = false;
+            this.txtContrato.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtContrato.Location = new System.Drawing.Point(271, 227);
+            this.txtContrato.Name = "txtContrato";
+            this.txtContrato.Size = new System.Drawing.Size(169, 26);
+            this.txtContrato.TabIndex = 18;
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.Location = new System.Drawing.Point(177, 230);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(84, 20);
+            this.label3.TabIndex = 17;
+            this.label3.Text = "Contrato:";
+            // 
+            // numericUpDown1
+            // 
+            this.numericUpDown1.Location = new System.Drawing.Point(385, 283);
+            this.numericUpDown1.Maximum = new decimal(new int[] {
+            2100,
+            0,
+            0,
+            0});
+            this.numericUpDown1.Minimum = new decimal(new int[] {
+            2012,
+            0,
+            0,
+            0});
+            this.numericUpDown1.Name = "numericUpDown1";
+            this.numericUpDown1.Size = new System.Drawing.Size(55, 20);
+            this.numericUpDown1.TabIndex = 16;
+            this.numericUpDown1.Value = new decimal(new int[] {
+            2012,
+            0,
+            0,
+            0});
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Location = new System.Drawing.Point(177, 284);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(64, 20);
+            this.label2.TabIndex = 14;
+            this.label2.Text = "Fecha:";
+            // 
+            // comboBox1
+            // 
+            this.comboBox1.FormattingEnabled = true;
+            this.comboBox1.Items.AddRange(new object[] {
+            "ENERO",
+            "FEBRERO",
+            "MARZO",
+            "ABRIL",
+            "MAYO",
+            "JUNIO",
+            "JULIO",
+            "AGOSTO",
+            "SEPTIEMPRE",
+            "OCTUBRE",
+            "NOVIEMBRE",
+            "DICIEMBRE"});
+            this.comboBox1.Location = new System.Drawing.Point(271, 283);
+            this.comboBox1.Name = "comboBox1";
+            this.comboBox1.Size = new System.Drawing.Size(108, 21);
+            this.comboBox1.TabIndex = 13;
+            // 
+            // pbxCliente
+            // 
+            this.pbxCliente.BackColor = System.Drawing.Color.Transparent;
+            this.pbxCliente.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.pbxCliente.Image = ((System.Drawing.Image)(resources.GetObject("pbxCliente.Image")));
+            this.pbxCliente.Location = new System.Drawing.Point(446, 118);
+            this.pbxCliente.Name = "pbxCliente";
+            this.pbxCliente.Size = new System.Drawing.Size(26, 26);
+            this.pbxCliente.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pbxCliente.TabIndex = 12;
+            this.pbxCliente.TabStop = false;
+            this.pbxCliente.Click += new System.EventHandler(this.pbxCliente_Click);
+            // 
+            // txtContador
+            // 
+            this.txtContador.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtContador.Location = new System.Drawing.Point(271, 118);
+            this.txtContador.Name = "txtContador";
+            this.txtContador.Size = new System.Drawing.Size(169, 26);
+            this.txtContador.TabIndex = 3;
+            this.txtContador.Leave += new System.EventHandler(this.txtContrato_Leave);
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Location = new System.Drawing.Point(177, 124);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(88, 20);
+            this.label1.TabIndex = 2;
+            this.label1.Text = "Contador:";
+            // 
+            // txtNombre
+            // 
+            this.txtNombre.Enabled = false;
+            this.txtNombre.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtNombre.Location = new System.Drawing.Point(271, 175);
+            this.txtNombre.Name = "txtNombre";
+            this.txtNombre.Size = new System.Drawing.Size(169, 26);
+            this.txtNombre.TabIndex = 1;
+            // 
+            // lblNombrePar
+            // 
+            this.lblNombrePar.AutoSize = true;
+            this.lblNombrePar.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblNombrePar.Location = new System.Drawing.Point(177, 178);
+            this.lblNombrePar.Name = "lblNombrePar";
+            this.lblNombrePar.Size = new System.Drawing.Size(76, 20);
+            this.lblNombrePar.TabIndex = 0;
+            this.lblNombrePar.Text = "Nombre:";
+            // 
+            // pnlInsertar
+            // 
+            this.pnlInsertar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
+            this.pnlInsertar.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.pnlInsertar.Controls.Add(this.lblGuardar);
+            this.pnlInsertar.Controls.Add(this.pbGuardar);
+            this.pnlInsertar.Location = new System.Drawing.Point(703, 133);
+            this.pnlInsertar.Name = "pnlInsertar";
+            this.pnlInsertar.Size = new System.Drawing.Size(82, 229);
+            this.pnlInsertar.TabIndex = 8;
+            // 
+            // lblGuardar
+            // 
+            this.lblGuardar.AutoSize = true;
+            this.lblGuardar.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblGuardar.ForeColor = System.Drawing.Color.White;
+            this.lblGuardar.Location = new System.Drawing.Point(0, 79);
+            this.lblGuardar.Name = "lblGuardar";
+            this.lblGuardar.Size = new System.Drawing.Size(75, 20);
+            this.lblGuardar.TabIndex = 1;
+            this.lblGuardar.Text = "Generar";
+            this.lblGuardar.EnabledChanged += new System.EventHandler(this.lblGuardar_EnabledChanged);
+            // 
+            // pbGuardar
+            // 
+            this.pbGuardar.BackColor = System.Drawing.Color.Transparent;
+            this.pbGuardar.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.pbGuardar.Image = ((System.Drawing.Image)(resources.GetObject("pbGuardar.Image")));
+            this.pbGuardar.Location = new System.Drawing.Point(12, 35);
+            this.pbGuardar.Name = "pbGuardar";
+            this.pbGuardar.Size = new System.Drawing.Size(48, 45);
+            this.pbGuardar.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pbGuardar.TabIndex = 0;
+            this.pbGuardar.TabStop = false;
+            this.pbGuardar.Click += new System.EventHandler(this.pbGuardar_Click);
+            // 
+            // reportViewer1
+            // 
+            this.reportViewer1.LocalReport.ReportEmbeddedResource = "WindowsFormsApplication2.rptRecibo.rdlc";
+            this.reportViewer1.Location = new System.Drawing.Point(22, 13);
+            this.reportViewer1.Name = "reportViewer1";
+            this.reportViewer1.Size = new System.Drawing.Size(743, 475);
+            this.reportViewer1.TabIndex = 9;
+            this.reportViewer1.Visible = false;
+            // 
+            // frmRecibo
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackgroundImage = global::WindowsFormsApplication2.Properties.Resources.fondo1;
+            this.ClientSize = new System.Drawing.Size(786, 574);
+            this.Controls.Add(this.pnlInsertar);
+            this.Controls.Add(this.panel2);
+            this.Controls.Add(this.pictureBox1);
+            this.Controls.Add(this.reportViewer1);
+            this.MaximizeBox = false;
+            this.Name = "frmRecibo";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "Recibo";
+            this.Load += new System.EventHandler(this.frmRecibo_Load);
+            this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.frmRecibo_FormClosed);
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            this.panel2.ResumeLayout(false);
+            this.panel2.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pbxCliente)).EndInit();
+            this.pnlInsertar.ResumeLayout(false);
+            this.pnlInsertar.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pbGuardar)).EndInit();
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.Panel panel2;
+        private System.Windows.Forms.TextBox txtNombre;
+        private System.Windows.Forms.Label lblNombrePar;
+        private System.Windows.Forms.Panel pnlInsertar;
+        private System.Windows.Forms.Label lblGuardar;
+        private System.Windows.Forms.PictureBox pbGuardar;
+        private System.Windows.Forms.TextBox txtContador;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.PictureBox pbxCliente;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.ComboBox comboBox1;
+        private System.Windows.Forms.NumericUpDown numericUpDown1;
+        private System.Windows.Forms.TextBox txtContrato;
+        private System.Windows.Forms.Label label3;
+        private Microsoft.Reporting.WinForms.ReportViewer reportViewer1;
+    }
+}

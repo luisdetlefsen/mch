@@ -1,0 +1,1090 @@
+C:\Documents and Settings\hidroelectrica\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Documents and Settings\hidroelectrica\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Documents and Settings\hidroelectrica\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\hidroelectrica\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmSplash.resources
+C:\Documents and Settings\hidroelectrica\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmMenu.resources
+C:\Documents and Settings\hidroelectrica\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntPersona.resources
+C:\Documents and Settings\hidroelectrica\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Mantenimiento.resources
+C:\Documents and Settings\hidroelectrica\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Documents and Settings\hidroelectrica\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\MCH Administracion.csproj.GenerateResource.Cache
+C:\Documents and Settings\hidroelectrica\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Documents and Settings\hidroelectrica\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Documents and Settings\hidroelectrica\Desktop\MCH IXKA\hidro\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.exe
+C:\Documents and Settings\hidroelectrica\Desktop\MCH IXKA\hidro\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.pdb
+C:\Documents and Settings\hidroelectrica\Desktop\MCH IXKA\hidro\MCH Solucion\WindowsFormsApplication2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\hidroelectrica\Desktop\MCH IXKA\hidro\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmAyuda.resources
+C:\Documents and Settings\hidroelectrica\Desktop\MCH IXKA\hidro\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntContador.resources
+C:\Documents and Settings\hidroelectrica\Desktop\MCH IXKA\hidro\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntContrato.resources
+C:\Documents and Settings\hidroelectrica\Desktop\MCH IXKA\hidro\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmSplash.resources
+C:\Documents and Settings\hidroelectrica\Desktop\MCH IXKA\hidro\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmMenu.resources
+C:\Documents and Settings\hidroelectrica\Desktop\MCH IXKA\hidro\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Mantenimiento.resources
+C:\Documents and Settings\hidroelectrica\Desktop\MCH IXKA\hidro\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntPersona.resources
+C:\Documents and Settings\hidroelectrica\Desktop\MCH IXKA\hidro\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntVariable.resources
+C:\Documents and Settings\hidroelectrica\Desktop\MCH IXKA\hidro\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Documents and Settings\hidroelectrica\Desktop\MCH IXKA\hidro\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH Administracion.csproj.GenerateResource.Cache
+C:\Documents and Settings\hidroelectrica\Desktop\MCH IXKA\hidro\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe.manifest
+C:\Documents and Settings\hidroelectrica\Desktop\MCH IXKA\hidro\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.application
+C:\Documents and Settings\hidroelectrica\Desktop\MCH IXKA\hidro\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe
+C:\Documents and Settings\hidroelectrica\Desktop\MCH IXKA\hidro\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.pdb
+C:\Documents and Settings\hidroelectrica\Desktop\MCH IXKA\hidro\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.exe.manifest
+C:\Documents and Settings\hidroelectrica\Desktop\MCH IXKA\hidro\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.application
+C:\Documents and Settings\hidroelectrica\My Documents\Downloads\asdf\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.exe
+C:\Documents and Settings\hidroelectrica\My Documents\Downloads\asdf\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.pdb
+C:\Documents and Settings\hidroelectrica\My Documents\Downloads\asdf\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe.manifest
+C:\Documents and Settings\hidroelectrica\My Documents\Downloads\asdf\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.application
+C:\Documents and Settings\hidroelectrica\My Documents\Downloads\asdf\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe
+C:\Documents and Settings\hidroelectrica\My Documents\Downloads\asdf\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.pdb
+C:\Documents and Settings\hidroelectrica\My Documents\Downloads\asdf\MCH Solucion\WindowsFormsApplication2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\hidroelectrica\My Documents\Downloads\asdf\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmAyuda.resources
+C:\Documents and Settings\hidroelectrica\My Documents\Downloads\asdf\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmLectura.resources
+C:\Documents and Settings\hidroelectrica\My Documents\Downloads\asdf\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntContador.resources
+C:\Documents and Settings\hidroelectrica\My Documents\Downloads\asdf\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntContrato.resources
+C:\Documents and Settings\hidroelectrica\My Documents\Downloads\asdf\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmSplash.resources
+C:\Documents and Settings\hidroelectrica\My Documents\Downloads\asdf\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmMenu.resources
+C:\Documents and Settings\hidroelectrica\My Documents\Downloads\asdf\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Mantenimiento.resources
+C:\Documents and Settings\hidroelectrica\My Documents\Downloads\asdf\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntPersona.resources
+C:\Documents and Settings\hidroelectrica\My Documents\Downloads\asdf\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntVariable.resources
+C:\Documents and Settings\hidroelectrica\My Documents\Downloads\asdf\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Documents and Settings\hidroelectrica\My Documents\Downloads\asdf\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH Administracion.csproj.GenerateResource.Cache
+C:\Documents and Settings\hidroelectrica\My Documents\Downloads\asdf\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.exe.manifest
+C:\Documents and Settings\hidroelectrica\My Documents\Downloads\asdf\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.application
+C:\Users\Charly\Downloads\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe.manifest
+C:\Users\Charly\Downloads\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.application
+C:\Users\Charly\Downloads\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe
+C:\Users\Charly\Downloads\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.pdb
+C:\Users\Charly\Downloads\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Charly\Downloads\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmAyuda.resources
+C:\Users\Charly\Downloads\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmLectura.resources
+C:\Users\Charly\Downloads\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmRecibo.resources
+C:\Users\Charly\Downloads\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntContador.resources
+C:\Users\Charly\Downloads\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntContrato.resources
+C:\Users\Charly\Downloads\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmSplash.resources
+C:\Users\Charly\Downloads\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmMenu.resources
+C:\Users\Charly\Downloads\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Mantenimiento.resources
+C:\Users\Charly\Downloads\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntPersona.resources
+C:\Users\Charly\Downloads\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntVariable.resources
+C:\Users\Charly\Downloads\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Charly\Downloads\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH Administracion.csproj.GenerateResource.Cache
+C:\Users\Charly\Downloads\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\RdlCompile.cache
+C:\Users\Charly\Downloads\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\RdlCompile.compiled
+C:\Users\Charly\Downloads\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.exe.manifest
+C:\Users\Charly\Downloads\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.application
+C:\Users\Charly\Downloads\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.exe
+C:\Users\Charly\Downloads\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.pdb
+C:\Documents and Settings\hidroelectrica\My Documents\Downloads\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.exe
+C:\Documents and Settings\hidroelectrica\My Documents\Downloads\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.pdb
+C:\Documents and Settings\hidroelectrica\My Documents\Downloads\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe.manifest
+C:\Documents and Settings\hidroelectrica\My Documents\Downloads\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.application
+C:\Documents and Settings\hidroelectrica\My Documents\Downloads\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe
+C:\Documents and Settings\hidroelectrica\My Documents\Downloads\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.pdb
+C:\Documents and Settings\hidroelectrica\My Documents\Downloads\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\hidroelectrica\My Documents\Downloads\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmAyuda.resources
+C:\Documents and Settings\hidroelectrica\My Documents\Downloads\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmLectura.resources
+C:\Documents and Settings\hidroelectrica\My Documents\Downloads\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmRecibo.resources
+C:\Documents and Settings\hidroelectrica\My Documents\Downloads\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntContador.resources
+C:\Documents and Settings\hidroelectrica\My Documents\Downloads\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntContrato.resources
+C:\Documents and Settings\hidroelectrica\My Documents\Downloads\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmSplash.resources
+C:\Documents and Settings\hidroelectrica\My Documents\Downloads\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmMenu.resources
+C:\Documents and Settings\hidroelectrica\My Documents\Downloads\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Mantenimiento.resources
+C:\Documents and Settings\hidroelectrica\My Documents\Downloads\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntPersona.resources
+C:\Documents and Settings\hidroelectrica\My Documents\Downloads\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntVariable.resources
+C:\Documents and Settings\hidroelectrica\My Documents\Downloads\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Documents and Settings\hidroelectrica\My Documents\Downloads\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH Administracion.csproj.GenerateResource.Cache
+C:\Documents and Settings\hidroelectrica\My Documents\Downloads\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\RdlCompile.cache
+C:\Documents and Settings\hidroelectrica\My Documents\Downloads\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\RdlCompile.compiled
+C:\Documents and Settings\hidroelectrica\My Documents\Downloads\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.exe.manifest
+C:\Documents and Settings\hidroelectrica\My Documents\Downloads\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.application
+C:\Documents and Settings\hidroelectrica\My Documents\Downloads\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmReporte.resources
+C:\Documents and Settings\hidroelectrica\My Documents\Downloads\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmPagos.resources
+C:\Documents and Settings\hidroelectrica\My Documents\Downloads\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe.config
+C:\Users\CARLOS\Universidad\2012\SEGUNDO CICLO\PROYECTOS DE INGENIERIA EN INFORMÁTICA Y SISTEMAS II\28NOV\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe.config
+C:\Users\CARLOS\Universidad\2012\SEGUNDO CICLO\PROYECTOS DE INGENIERIA EN INFORMÁTICA Y SISTEMAS II\28NOV\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.exe
+C:\Users\CARLOS\Universidad\2012\SEGUNDO CICLO\PROYECTOS DE INGENIERIA EN INFORMÁTICA Y SISTEMAS II\28NOV\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.pdb
+C:\Users\CARLOS\Universidad\2012\SEGUNDO CICLO\PROYECTOS DE INGENIERIA EN INFORMÁTICA Y SISTEMAS II\28NOV\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe.manifest
+C:\Users\CARLOS\Universidad\2012\SEGUNDO CICLO\PROYECTOS DE INGENIERIA EN INFORMÁTICA Y SISTEMAS II\28NOV\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.application
+C:\Users\CARLOS\Universidad\2012\SEGUNDO CICLO\PROYECTOS DE INGENIERIA EN INFORMÁTICA Y SISTEMAS II\28NOV\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe
+C:\Users\CARLOS\Universidad\2012\SEGUNDO CICLO\PROYECTOS DE INGENIERIA EN INFORMÁTICA Y SISTEMAS II\28NOV\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.pdb
+C:\Users\CARLOS\Universidad\2012\SEGUNDO CICLO\PROYECTOS DE INGENIERIA EN INFORMÁTICA Y SISTEMAS II\28NOV\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\CARLOS\Universidad\2012\SEGUNDO CICLO\PROYECTOS DE INGENIERIA EN INFORMÁTICA Y SISTEMAS II\28NOV\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmAyuda.resources
+C:\Users\CARLOS\Universidad\2012\SEGUNDO CICLO\PROYECTOS DE INGENIERIA EN INFORMÁTICA Y SISTEMAS II\28NOV\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmLectura.resources
+C:\Users\CARLOS\Universidad\2012\SEGUNDO CICLO\PROYECTOS DE INGENIERIA EN INFORMÁTICA Y SISTEMAS II\28NOV\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmPagos.resources
+C:\Users\CARLOS\Universidad\2012\SEGUNDO CICLO\PROYECTOS DE INGENIERIA EN INFORMÁTICA Y SISTEMAS II\28NOV\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmRecibo.resources
+C:\Users\CARLOS\Universidad\2012\SEGUNDO CICLO\PROYECTOS DE INGENIERIA EN INFORMÁTICA Y SISTEMAS II\28NOV\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmReporte.resources
+C:\Users\CARLOS\Universidad\2012\SEGUNDO CICLO\PROYECTOS DE INGENIERIA EN INFORMÁTICA Y SISTEMAS II\28NOV\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntContador.resources
+C:\Users\CARLOS\Universidad\2012\SEGUNDO CICLO\PROYECTOS DE INGENIERIA EN INFORMÁTICA Y SISTEMAS II\28NOV\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntContrato.resources
+C:\Users\CARLOS\Universidad\2012\SEGUNDO CICLO\PROYECTOS DE INGENIERIA EN INFORMÁTICA Y SISTEMAS II\28NOV\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmSplash.resources
+C:\Users\CARLOS\Universidad\2012\SEGUNDO CICLO\PROYECTOS DE INGENIERIA EN INFORMÁTICA Y SISTEMAS II\28NOV\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmMenu.resources
+C:\Users\CARLOS\Universidad\2012\SEGUNDO CICLO\PROYECTOS DE INGENIERIA EN INFORMÁTICA Y SISTEMAS II\28NOV\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Mantenimiento.resources
+C:\Users\CARLOS\Universidad\2012\SEGUNDO CICLO\PROYECTOS DE INGENIERIA EN INFORMÁTICA Y SISTEMAS II\28NOV\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntPersona.resources
+C:\Users\CARLOS\Universidad\2012\SEGUNDO CICLO\PROYECTOS DE INGENIERIA EN INFORMÁTICA Y SISTEMAS II\28NOV\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntVariable.resources
+C:\Users\CARLOS\Universidad\2012\SEGUNDO CICLO\PROYECTOS DE INGENIERIA EN INFORMÁTICA Y SISTEMAS II\28NOV\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\CARLOS\Universidad\2012\SEGUNDO CICLO\PROYECTOS DE INGENIERIA EN INFORMÁTICA Y SISTEMAS II\28NOV\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH Administracion.csproj.GenerateResource.Cache
+C:\Users\CARLOS\Universidad\2012\SEGUNDO CICLO\PROYECTOS DE INGENIERIA EN INFORMÁTICA Y SISTEMAS II\28NOV\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\RdlCompile.cache
+C:\Users\CARLOS\Universidad\2012\SEGUNDO CICLO\PROYECTOS DE INGENIERIA EN INFORMÁTICA Y SISTEMAS II\28NOV\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\RdlCompile.compiled
+C:\Users\CARLOS\Universidad\2012\SEGUNDO CICLO\PROYECTOS DE INGENIERIA EN INFORMÁTICA Y SISTEMAS II\28NOV\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.exe.manifest
+C:\Users\CARLOS\Universidad\2012\SEGUNDO CICLO\PROYECTOS DE INGENIERIA EN INFORMÁTICA Y SISTEMAS II\28NOV\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.application
+C:\Users\cemartinez\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe.config
+C:\Users\cemartinez\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.exe
+C:\Users\cemartinez\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.pdb
+C:\Users\cemartinez\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe.manifest
+C:\Users\cemartinez\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.application
+C:\Users\cemartinez\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe
+C:\Users\cemartinez\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.pdb
+C:\Users\cemartinez\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\cemartinez\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmAyuda.resources
+C:\Users\cemartinez\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmLectura.resources
+C:\Users\cemartinez\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmPagos.resources
+C:\Users\cemartinez\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmRecibo.resources
+C:\Users\cemartinez\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmReporte.resources
+C:\Users\cemartinez\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntContador.resources
+C:\Users\cemartinez\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntContrato.resources
+C:\Users\cemartinez\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmSplash.resources
+C:\Users\cemartinez\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmMenu.resources
+C:\Users\cemartinez\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Mantenimiento.resources
+C:\Users\cemartinez\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntPersona.resources
+C:\Users\cemartinez\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntVariable.resources
+C:\Users\cemartinez\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\cemartinez\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH Administracion.csproj.GenerateResource.Cache
+C:\Users\cemartinez\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\RdlCompile.cache
+C:\Users\cemartinez\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\RdlCompile.compiled
+C:\Users\cemartinez\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.exe.manifest
+C:\Users\cemartinez\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.application
+C:\Users\cemartinez\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.viewRecibo.resources
+C:\Documents and Settings\hidroelectrica\My Documents\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe.config
+C:\Documents and Settings\hidroelectrica\My Documents\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.pdb
+C:\Documents and Settings\hidroelectrica\My Documents\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\hidroelectrica\My Documents\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.viewRecibo.resources
+C:\Documents and Settings\hidroelectrica\My Documents\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmAyuda.resources
+C:\Documents and Settings\hidroelectrica\My Documents\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmLectura.resources
+C:\Documents and Settings\hidroelectrica\My Documents\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmPagos.resources
+C:\Documents and Settings\hidroelectrica\My Documents\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmRecibo.resources
+C:\Documents and Settings\hidroelectrica\My Documents\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmReporte.resources
+C:\Documents and Settings\hidroelectrica\My Documents\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntContador.resources
+C:\Documents and Settings\hidroelectrica\My Documents\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntContrato.resources
+C:\Documents and Settings\hidroelectrica\My Documents\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmSplash.resources
+C:\Documents and Settings\hidroelectrica\My Documents\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmMenu.resources
+C:\Documents and Settings\hidroelectrica\My Documents\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Mantenimiento.resources
+C:\Documents and Settings\hidroelectrica\My Documents\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntPersona.resources
+C:\Documents and Settings\hidroelectrica\My Documents\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntVariable.resources
+C:\Documents and Settings\hidroelectrica\My Documents\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmCambiarPassword.resources
+C:\Documents and Settings\hidroelectrica\My Documents\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmPassword.resources
+C:\Documents and Settings\hidroelectrica\My Documents\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Documents and Settings\hidroelectrica\My Documents\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH Administracion.csproj.GenerateResource.Cache
+C:\Documents and Settings\hidroelectrica\My Documents\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\RdlCompile.cache
+C:\Documents and Settings\hidroelectrica\My Documents\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\RdlCompile.compiled
+C:\Documents and Settings\hidroelectrica\My Documents\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe.manifest
+C:\Documents and Settings\hidroelectrica\My Documents\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.application
+C:\Documents and Settings\hidroelectrica\My Documents\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe
+C:\Documents and Settings\hidroelectrica\My Documents\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.pdb
+C:\Documents and Settings\hidroelectrica\My Documents\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.exe.manifest
+C:\Documents and Settings\hidroelectrica\My Documents\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.application
+C:\Documents and Settings\hidroelectrica\My Documents\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.exe
+C:\Documents and Settings\hidroelectrica\Desktop\UltimaVersion\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe.config
+C:\Documents and Settings\hidroelectrica\Desktop\UltimaVersion\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.exe
+C:\Documents and Settings\hidroelectrica\Desktop\UltimaVersion\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.pdb
+C:\Documents and Settings\hidroelectrica\Desktop\UltimaVersion\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe.manifest
+C:\Documents and Settings\hidroelectrica\Desktop\UltimaVersion\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.application
+C:\Documents and Settings\hidroelectrica\Desktop\UltimaVersion\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe
+C:\Documents and Settings\hidroelectrica\Desktop\UltimaVersion\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.pdb
+C:\Documents and Settings\hidroelectrica\Desktop\UltimaVersion\MCH Solucion\WindowsFormsApplication2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\hidroelectrica\Desktop\UltimaVersion\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.viewRecibo.resources
+C:\Documents and Settings\hidroelectrica\Desktop\UltimaVersion\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmAyuda.resources
+C:\Documents and Settings\hidroelectrica\Desktop\UltimaVersion\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmLectura.resources
+C:\Documents and Settings\hidroelectrica\Desktop\UltimaVersion\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmPagos.resources
+C:\Documents and Settings\hidroelectrica\Desktop\UltimaVersion\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmRecibo.resources
+C:\Documents and Settings\hidroelectrica\Desktop\UltimaVersion\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmReporte.resources
+C:\Documents and Settings\hidroelectrica\Desktop\UltimaVersion\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntContador.resources
+C:\Documents and Settings\hidroelectrica\Desktop\UltimaVersion\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntContrato.resources
+C:\Documents and Settings\hidroelectrica\Desktop\UltimaVersion\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmSplash.resources
+C:\Documents and Settings\hidroelectrica\Desktop\UltimaVersion\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmMenu.resources
+C:\Documents and Settings\hidroelectrica\Desktop\UltimaVersion\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Mantenimiento.resources
+C:\Documents and Settings\hidroelectrica\Desktop\UltimaVersion\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntPersona.resources
+C:\Documents and Settings\hidroelectrica\Desktop\UltimaVersion\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntVariable.resources
+C:\Documents and Settings\hidroelectrica\Desktop\UltimaVersion\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmCambiarPassword.resources
+C:\Documents and Settings\hidroelectrica\Desktop\UltimaVersion\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmPassword.resources
+C:\Documents and Settings\hidroelectrica\Desktop\UltimaVersion\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Documents and Settings\hidroelectrica\Desktop\UltimaVersion\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH Administracion.csproj.GenerateResource.Cache
+C:\Documents and Settings\hidroelectrica\Desktop\UltimaVersion\MCH Solucion\WindowsFormsApplication2\obj\Debug\RdlCompile.cache
+C:\Documents and Settings\hidroelectrica\Desktop\UltimaVersion\MCH Solucion\WindowsFormsApplication2\obj\Debug\RdlCompile.compiled
+C:\Documents and Settings\hidroelectrica\Desktop\UltimaVersion\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.exe.manifest
+C:\Documents and Settings\hidroelectrica\Desktop\UltimaVersion\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.application
+C:\Users\Charly\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe.config
+C:\Users\Charly\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.exe
+C:\Users\Charly\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.pdb
+C:\Users\Charly\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Charly\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.viewRecibo.resources
+C:\Users\Charly\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmAyuda.resources
+C:\Users\Charly\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmLectura.resources
+C:\Users\Charly\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmPagos.resources
+C:\Users\Charly\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmRecibo.resources
+C:\Users\Charly\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmReporte.resources
+C:\Users\Charly\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntContador.resources
+C:\Users\Charly\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntContrato.resources
+C:\Users\Charly\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmSplash.resources
+C:\Users\Charly\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmMenu.resources
+C:\Users\Charly\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Mantenimiento.resources
+C:\Users\Charly\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntPersona.resources
+C:\Users\Charly\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntVariable.resources
+C:\Users\Charly\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmCambiarPassword.resources
+C:\Users\Charly\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmPassword.resources
+C:\Users\Charly\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Charly\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH Administracion.csproj.GenerateResource.Cache
+C:\Users\Charly\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\RdlCompile.cache
+C:\Users\Charly\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\RdlCompile.compiled
+C:\Users\Charly\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe.manifest
+C:\Users\Charly\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.application
+C:\Users\Charly\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe
+C:\Users\Charly\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.pdb
+C:\Users\Charly\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.exe.manifest
+C:\Users\Charly\Dropbox\MCH Solucion1\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.application
+C:\Users\leorellana\Dropbox\SW Hidroelecticas Final\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe.config
+C:\Users\Carlangas\Dropbox\SW Hidroelecticas Final\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe.config
+C:\Users\Carlangas\Dropbox\SW Hidroelecticas Final\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe.manifest
+C:\Users\Carlangas\Dropbox\SW Hidroelecticas Final\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.application
+C:\Users\Carlangas\Dropbox\SW Hidroelecticas Final\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe
+C:\Users\Carlangas\Dropbox\SW Hidroelecticas Final\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.pdb
+C:\Users\Carlangas\Dropbox\SW Hidroelecticas Final\MCH Solucion\WindowsFormsApplication2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Carlangas\Dropbox\SW Hidroelecticas Final\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.viewRecibo.resources
+C:\Users\Carlangas\Dropbox\SW Hidroelecticas Final\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmAyuda.resources
+C:\Users\Carlangas\Dropbox\SW Hidroelecticas Final\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmLectura.resources
+C:\Users\Carlangas\Dropbox\SW Hidroelecticas Final\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmPagos.resources
+C:\Users\Carlangas\Dropbox\SW Hidroelecticas Final\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmRecibo.resources
+C:\Users\Carlangas\Dropbox\SW Hidroelecticas Final\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmReporte.resources
+C:\Users\Carlangas\Dropbox\SW Hidroelecticas Final\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntContador.resources
+C:\Users\Carlangas\Dropbox\SW Hidroelecticas Final\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntContrato.resources
+C:\Users\Carlangas\Dropbox\SW Hidroelecticas Final\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmSplash.resources
+C:\Users\Carlangas\Dropbox\SW Hidroelecticas Final\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmMenu.resources
+C:\Users\Carlangas\Dropbox\SW Hidroelecticas Final\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Mantenimiento.resources
+C:\Users\Carlangas\Dropbox\SW Hidroelecticas Final\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntPersona.resources
+C:\Users\Carlangas\Dropbox\SW Hidroelecticas Final\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntVariable.resources
+C:\Users\Carlangas\Dropbox\SW Hidroelecticas Final\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmCambiarPassword.resources
+C:\Users\Carlangas\Dropbox\SW Hidroelecticas Final\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmPassword.resources
+C:\Users\Carlangas\Dropbox\SW Hidroelecticas Final\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Carlangas\Dropbox\SW Hidroelecticas Final\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH Administracion.csproj.GenerateResource.Cache
+C:\Users\Carlangas\Dropbox\SW Hidroelecticas Final\MCH Solucion\WindowsFormsApplication2\obj\Debug\RdlCompile.cache
+C:\Users\Carlangas\Dropbox\SW Hidroelecticas Final\MCH Solucion\WindowsFormsApplication2\obj\Debug\RdlCompile.compiled
+C:\Users\Carlangas\Dropbox\SW Hidroelecticas Final\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.exe.manifest
+C:\Users\Carlangas\Dropbox\SW Hidroelecticas Final\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.application
+C:\Users\Carlangas\Dropbox\SW Hidroelecticas Final\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.exe
+C:\Users\Carlangas\Dropbox\SW Hidroelecticas Final\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.pdb
+C:\Documents and Settings\Jose\Escritorio\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe.config
+C:\Documents and Settings\Jose\Escritorio\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.exe
+C:\Documents and Settings\Jose\Escritorio\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.pdb
+C:\Documents and Settings\Jose\Escritorio\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe.manifest
+C:\Documents and Settings\Jose\Escritorio\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.application
+C:\Documents and Settings\Jose\Escritorio\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe
+C:\Documents and Settings\Jose\Escritorio\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.pdb
+C:\Documents and Settings\Jose\Escritorio\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jose\Escritorio\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.viewRecibo.resources
+C:\Documents and Settings\Jose\Escritorio\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmAyuda.resources
+C:\Documents and Settings\Jose\Escritorio\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmLectura.resources
+C:\Documents and Settings\Jose\Escritorio\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmPagos.resources
+C:\Documents and Settings\Jose\Escritorio\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmRecibo.resources
+C:\Documents and Settings\Jose\Escritorio\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmReporte.resources
+C:\Documents and Settings\Jose\Escritorio\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntContador.resources
+C:\Documents and Settings\Jose\Escritorio\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntContrato.resources
+C:\Documents and Settings\Jose\Escritorio\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmSplash.resources
+C:\Documents and Settings\Jose\Escritorio\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmMenu.resources
+C:\Documents and Settings\Jose\Escritorio\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Mantenimiento.resources
+C:\Documents and Settings\Jose\Escritorio\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntPersona.resources
+C:\Documents and Settings\Jose\Escritorio\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntVariable.resources
+C:\Documents and Settings\Jose\Escritorio\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmCambiarPassword.resources
+C:\Documents and Settings\Jose\Escritorio\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmPassword.resources
+C:\Documents and Settings\Jose\Escritorio\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Documents and Settings\Jose\Escritorio\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH Administracion.csproj.GenerateResource.Cache
+C:\Documents and Settings\Jose\Escritorio\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\RdlCompile.cache
+C:\Documents and Settings\Jose\Escritorio\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\RdlCompile.compiled
+C:\Documents and Settings\Jose\Escritorio\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.exe.manifest
+C:\Documents and Settings\Jose\Escritorio\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.application
+C:\Documents and Settings\Jose\Escritorio\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.asocusuario.resources
+C:\Documents and Settings\Jose\Escritorio\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmControlUs.resources
+C:\Documents and Settings\Jose\Escritorio\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmPerfil.resources
+C:\Documents and Settings\Jose\Escritorio\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmUsuarios.resources
+C:\Users\Alex\Desktop\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe.config
+C:\Users\Alex\Desktop\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.exe
+C:\Users\Alex\Desktop\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.pdb
+C:\Users\Alex\Desktop\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe.manifest
+C:\Users\Alex\Desktop\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.application
+C:\Users\Alex\Desktop\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe
+C:\Users\Alex\Desktop\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.pdb
+C:\Users\Alex\Desktop\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.asocusuario.resources
+C:\Users\Alex\Desktop\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmControlUs.resources
+C:\Users\Alex\Desktop\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmPerfil.resources
+C:\Users\Alex\Desktop\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmUsuarios.resources
+C:\Users\Alex\Desktop\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.viewRecibo.resources
+C:\Users\Alex\Desktop\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmAyuda.resources
+C:\Users\Alex\Desktop\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmLectura.resources
+C:\Users\Alex\Desktop\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmPagos.resources
+C:\Users\Alex\Desktop\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmRecibo.resources
+C:\Users\Alex\Desktop\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmReporte.resources
+C:\Users\Alex\Desktop\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntContador.resources
+C:\Users\Alex\Desktop\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntContrato.resources
+C:\Users\Alex\Desktop\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmSplash.resources
+C:\Users\Alex\Desktop\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmMenu.resources
+C:\Users\Alex\Desktop\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Mantenimiento.resources
+C:\Users\Alex\Desktop\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntPersona.resources
+C:\Users\Alex\Desktop\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntVariable.resources
+C:\Users\Alex\Desktop\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmCambiarPassword.resources
+C:\Users\Alex\Desktop\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmPassword.resources
+C:\Users\Alex\Desktop\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Alex\Desktop\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH Administracion.csproj.GenerateResource.Cache
+C:\Users\Alex\Desktop\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\RdlCompile.cache
+C:\Users\Alex\Desktop\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\RdlCompile.compiled
+C:\Users\Alex\Desktop\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.exe.manifest
+C:\Users\Alex\Desktop\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.application
+C:\Users\JuanPa\Desktop\SW Hidroeléctricas 2013\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe.config
+C:\Users\JuanPa\Desktop\SW Hidroeléctricas 2013\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.exe
+C:\Users\JuanPa\Desktop\SW Hidroeléctricas 2013\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.pdb
+C:\Users\JuanPa\Desktop\SW Hidroeléctricas 2013\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe.manifest
+C:\Users\JuanPa\Desktop\SW Hidroeléctricas 2013\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.application
+C:\Users\JuanPa\Desktop\SW Hidroeléctricas 2013\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe
+C:\Users\JuanPa\Desktop\SW Hidroeléctricas 2013\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.pdb
+C:\Users\JuanPa\Desktop\SW Hidroeléctricas 2013\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\JuanPa\Desktop\SW Hidroeléctricas 2013\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.asocusuario.resources
+C:\Users\JuanPa\Desktop\SW Hidroeléctricas 2013\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmControlUs.resources
+C:\Users\JuanPa\Desktop\SW Hidroeléctricas 2013\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmPerfil.resources
+C:\Users\JuanPa\Desktop\SW Hidroeléctricas 2013\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmUsuarios.resources
+C:\Users\JuanPa\Desktop\SW Hidroeléctricas 2013\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.viewRecibo.resources
+C:\Users\JuanPa\Desktop\SW Hidroeléctricas 2013\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmAyuda.resources
+C:\Users\JuanPa\Desktop\SW Hidroeléctricas 2013\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmLectura.resources
+C:\Users\JuanPa\Desktop\SW Hidroeléctricas 2013\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmPagos.resources
+C:\Users\JuanPa\Desktop\SW Hidroeléctricas 2013\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmRecibo.resources
+C:\Users\JuanPa\Desktop\SW Hidroeléctricas 2013\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmReporte.resources
+C:\Users\JuanPa\Desktop\SW Hidroeléctricas 2013\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntContador.resources
+C:\Users\JuanPa\Desktop\SW Hidroeléctricas 2013\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntContrato.resources
+C:\Users\JuanPa\Desktop\SW Hidroeléctricas 2013\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmSplash.resources
+C:\Users\JuanPa\Desktop\SW Hidroeléctricas 2013\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmMenu.resources
+C:\Users\JuanPa\Desktop\SW Hidroeléctricas 2013\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Mantenimiento.resources
+C:\Users\JuanPa\Desktop\SW Hidroeléctricas 2013\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntPersona.resources
+C:\Users\JuanPa\Desktop\SW Hidroeléctricas 2013\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntVariable.resources
+C:\Users\JuanPa\Desktop\SW Hidroeléctricas 2013\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmCambiarPassword.resources
+C:\Users\JuanPa\Desktop\SW Hidroeléctricas 2013\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmPassword.resources
+C:\Users\JuanPa\Desktop\SW Hidroeléctricas 2013\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\JuanPa\Desktop\SW Hidroeléctricas 2013\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH Administracion.csproj.GenerateResource.Cache
+C:\Users\JuanPa\Desktop\SW Hidroeléctricas 2013\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\RdlCompile.cache
+C:\Users\JuanPa\Desktop\SW Hidroeléctricas 2013\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\RdlCompile.compiled
+C:\Users\JuanPa\Desktop\SW Hidroeléctricas 2013\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.exe.manifest
+C:\Users\JuanPa\Desktop\SW Hidroeléctricas 2013\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.application
+C:\Users\JuanPa\Desktop\SW Hidroeléctricas 2013\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmControlCom.resources
+C:\Users\JuanPa\Desktop\SW Hidroeléctricas 2013 Modificado\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe.config
+C:\Users\JuanPa\Desktop\SW Hidroeléctricas 2013 Modificado\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.exe
+C:\Users\JuanPa\Desktop\SW Hidroeléctricas 2013 Modificado\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.pdb
+C:\Users\JuanPa\Desktop\SW Hidroeléctricas 2013 Modificado\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe.manifest
+C:\Users\JuanPa\Desktop\SW Hidroeléctricas 2013 Modificado\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.application
+C:\Users\JuanPa\Desktop\SW Hidroeléctricas 2013 Modificado\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe
+C:\Users\JuanPa\Desktop\SW Hidroeléctricas 2013 Modificado\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.pdb
+C:\Users\JuanPa\Desktop\SW Hidroeléctricas 2013 Modificado\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\JuanPa\Desktop\SW Hidroeléctricas 2013 Modificado\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.asocusuario.resources
+C:\Users\JuanPa\Desktop\SW Hidroeléctricas 2013 Modificado\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmControlUs.resources
+C:\Users\JuanPa\Desktop\SW Hidroeléctricas 2013 Modificado\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmPerfil.resources
+C:\Users\JuanPa\Desktop\SW Hidroeléctricas 2013 Modificado\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmUsuarios.resources
+C:\Users\JuanPa\Desktop\SW Hidroeléctricas 2013 Modificado\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.viewRecibo.resources
+C:\Users\JuanPa\Desktop\SW Hidroeléctricas 2013 Modificado\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmAyuda.resources
+C:\Users\JuanPa\Desktop\SW Hidroeléctricas 2013 Modificado\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmLectura.resources
+C:\Users\JuanPa\Desktop\SW Hidroeléctricas 2013 Modificado\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmPagos.resources
+C:\Users\JuanPa\Desktop\SW Hidroeléctricas 2013 Modificado\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmRecibo.resources
+C:\Users\JuanPa\Desktop\SW Hidroeléctricas 2013 Modificado\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmReporte.resources
+C:\Users\JuanPa\Desktop\SW Hidroeléctricas 2013 Modificado\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntContador.resources
+C:\Users\JuanPa\Desktop\SW Hidroeléctricas 2013 Modificado\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntContrato.resources
+C:\Users\JuanPa\Desktop\SW Hidroeléctricas 2013 Modificado\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmSplash.resources
+C:\Users\JuanPa\Desktop\SW Hidroeléctricas 2013 Modificado\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmMenu.resources
+C:\Users\JuanPa\Desktop\SW Hidroeléctricas 2013 Modificado\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Mantenimiento.resources
+C:\Users\JuanPa\Desktop\SW Hidroeléctricas 2013 Modificado\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntPersona.resources
+C:\Users\JuanPa\Desktop\SW Hidroeléctricas 2013 Modificado\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntVariable.resources
+C:\Users\JuanPa\Desktop\SW Hidroeléctricas 2013 Modificado\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmCambiarPassword.resources
+C:\Users\JuanPa\Desktop\SW Hidroeléctricas 2013 Modificado\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmControlCom.resources
+C:\Users\JuanPa\Desktop\SW Hidroeléctricas 2013 Modificado\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmPassword.resources
+C:\Users\JuanPa\Desktop\SW Hidroeléctricas 2013 Modificado\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\JuanPa\Desktop\SW Hidroeléctricas 2013 Modificado\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH Administracion.csproj.GenerateResource.Cache
+C:\Users\JuanPa\Desktop\SW Hidroeléctricas 2013 Modificado\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\RdlCompile.cache
+C:\Users\JuanPa\Desktop\SW Hidroeléctricas 2013 Modificado\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\RdlCompile.compiled
+C:\Users\JuanPa\Desktop\SW Hidroeléctricas 2013 Modificado\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.exe.manifest
+C:\Users\JuanPa\Desktop\SW Hidroeléctricas 2013 Modificado\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.application
+E:\Hidroelectrica mod jp jeff chero\SW Hidroeléctricas 2013 Modificado\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe.config
+E:\Hidroelectrica mod jp jeff chero\SW Hidroeléctricas 2013 Modificado\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.exe
+E:\Hidroelectrica mod jp jeff chero\SW Hidroeléctricas 2013 Modificado\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.pdb
+E:\Hidroelectrica mod jp jeff chero\SW Hidroeléctricas 2013 Modificado\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\ResolveAssemblyReference.cache
+E:\Hidroelectrica mod jp jeff chero\SW Hidroeléctricas 2013 Modificado\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.asocusuario.resources
+E:\Hidroelectrica mod jp jeff chero\SW Hidroeléctricas 2013 Modificado\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmControlUs.resources
+E:\Hidroelectrica mod jp jeff chero\SW Hidroeléctricas 2013 Modificado\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmCuentaCorriente.resources
+E:\Hidroelectrica mod jp jeff chero\SW Hidroeléctricas 2013 Modificado\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmPerfil.resources
+E:\Hidroelectrica mod jp jeff chero\SW Hidroeléctricas 2013 Modificado\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmUsuarios.resources
+E:\Hidroelectrica mod jp jeff chero\SW Hidroeléctricas 2013 Modificado\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.viewCuentaCorriente.resources
+E:\Hidroelectrica mod jp jeff chero\SW Hidroeléctricas 2013 Modificado\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.viewRecibo.resources
+E:\Hidroelectrica mod jp jeff chero\SW Hidroeléctricas 2013 Modificado\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmAyuda.resources
+E:\Hidroelectrica mod jp jeff chero\SW Hidroeléctricas 2013 Modificado\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmLectura.resources
+E:\Hidroelectrica mod jp jeff chero\SW Hidroeléctricas 2013 Modificado\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmPagos.resources
+E:\Hidroelectrica mod jp jeff chero\SW Hidroeléctricas 2013 Modificado\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmRecibo.resources
+E:\Hidroelectrica mod jp jeff chero\SW Hidroeléctricas 2013 Modificado\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmReporte.resources
+E:\Hidroelectrica mod jp jeff chero\SW Hidroeléctricas 2013 Modificado\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntContador.resources
+E:\Hidroelectrica mod jp jeff chero\SW Hidroeléctricas 2013 Modificado\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntContrato.resources
+E:\Hidroelectrica mod jp jeff chero\SW Hidroeléctricas 2013 Modificado\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmSplash.resources
+E:\Hidroelectrica mod jp jeff chero\SW Hidroeléctricas 2013 Modificado\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmMenu.resources
+E:\Hidroelectrica mod jp jeff chero\SW Hidroeléctricas 2013 Modificado\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Mantenimiento.resources
+E:\Hidroelectrica mod jp jeff chero\SW Hidroeléctricas 2013 Modificado\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntPersona.resources
+E:\Hidroelectrica mod jp jeff chero\SW Hidroeléctricas 2013 Modificado\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntVariable.resources
+E:\Hidroelectrica mod jp jeff chero\SW Hidroeléctricas 2013 Modificado\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmCambiarPassword.resources
+E:\Hidroelectrica mod jp jeff chero\SW Hidroeléctricas 2013 Modificado\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmControlCom.resources
+E:\Hidroelectrica mod jp jeff chero\SW Hidroeléctricas 2013 Modificado\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmPassword.resources
+E:\Hidroelectrica mod jp jeff chero\SW Hidroeléctricas 2013 Modificado\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+E:\Hidroelectrica mod jp jeff chero\SW Hidroeléctricas 2013 Modificado\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH Administracion.csproj.GenerateResource.Cache
+E:\Hidroelectrica mod jp jeff chero\SW Hidroeléctricas 2013 Modificado\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\RdlCompile.cache
+E:\Hidroelectrica mod jp jeff chero\SW Hidroeléctricas 2013 Modificado\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\RdlCompile.compiled
+E:\Hidroelectrica mod jp jeff chero\SW Hidroeléctricas 2013 Modificado\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe.manifest
+E:\Hidroelectrica mod jp jeff chero\SW Hidroeléctricas 2013 Modificado\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.application
+E:\Hidroelectrica mod jp jeff chero\SW Hidroeléctricas 2013 Modificado\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe
+E:\Hidroelectrica mod jp jeff chero\SW Hidroeléctricas 2013 Modificado\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.pdb
+E:\Hidroelectrica mod jp jeff chero\SW Hidroeléctricas 2013 Modificado\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.exe.manifest
+E:\Hidroelectrica mod jp jeff chero\SW Hidroeléctricas 2013 Modificado\SW Hidroeléctricas 2013\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.application
+D:\backup prodriguez\Universidad\proyectos de sistemas 2\Hidroeléctricas Versión Final\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe.config
+D:\backup prodriguez\Universidad\proyectos de sistemas 2\Hidroeléctricas Versión Final\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.exe
+D:\backup prodriguez\Universidad\proyectos de sistemas 2\Hidroeléctricas Versión Final\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.pdb
+D:\backup prodriguez\Universidad\proyectos de sistemas 2\Hidroeléctricas Versión Final\MCH Solucion\WindowsFormsApplication2\obj\Debug\ResolveAssemblyReference.cache
+D:\backup prodriguez\Universidad\proyectos de sistemas 2\Hidroeléctricas Versión Final\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.asocusuario.resources
+D:\backup prodriguez\Universidad\proyectos de sistemas 2\Hidroeléctricas Versión Final\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmControlUs.resources
+D:\backup prodriguez\Universidad\proyectos de sistemas 2\Hidroeléctricas Versión Final\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmCuentaCorriente.resources
+D:\backup prodriguez\Universidad\proyectos de sistemas 2\Hidroeléctricas Versión Final\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmPerfil.resources
+D:\backup prodriguez\Universidad\proyectos de sistemas 2\Hidroeléctricas Versión Final\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmUsuarios.resources
+D:\backup prodriguez\Universidad\proyectos de sistemas 2\Hidroeléctricas Versión Final\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.viewCuentaCorriente.resources
+D:\backup prodriguez\Universidad\proyectos de sistemas 2\Hidroeléctricas Versión Final\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.viewRecibo.resources
+D:\backup prodriguez\Universidad\proyectos de sistemas 2\Hidroeléctricas Versión Final\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmAyuda.resources
+D:\backup prodriguez\Universidad\proyectos de sistemas 2\Hidroeléctricas Versión Final\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmLectura.resources
+D:\backup prodriguez\Universidad\proyectos de sistemas 2\Hidroeléctricas Versión Final\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmPagos.resources
+D:\backup prodriguez\Universidad\proyectos de sistemas 2\Hidroeléctricas Versión Final\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmRecibo.resources
+D:\backup prodriguez\Universidad\proyectos de sistemas 2\Hidroeléctricas Versión Final\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmReporte.resources
+D:\backup prodriguez\Universidad\proyectos de sistemas 2\Hidroeléctricas Versión Final\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntContador.resources
+D:\backup prodriguez\Universidad\proyectos de sistemas 2\Hidroeléctricas Versión Final\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntContrato.resources
+D:\backup prodriguez\Universidad\proyectos de sistemas 2\Hidroeléctricas Versión Final\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmSplash.resources
+D:\backup prodriguez\Universidad\proyectos de sistemas 2\Hidroeléctricas Versión Final\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmMenu.resources
+D:\backup prodriguez\Universidad\proyectos de sistemas 2\Hidroeléctricas Versión Final\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Mantenimiento.resources
+D:\backup prodriguez\Universidad\proyectos de sistemas 2\Hidroeléctricas Versión Final\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntPersona.resources
+D:\backup prodriguez\Universidad\proyectos de sistemas 2\Hidroeléctricas Versión Final\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntVariable.resources
+D:\backup prodriguez\Universidad\proyectos de sistemas 2\Hidroeléctricas Versión Final\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmCambiarPassword.resources
+D:\backup prodriguez\Universidad\proyectos de sistemas 2\Hidroeléctricas Versión Final\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmControlCom.resources
+D:\backup prodriguez\Universidad\proyectos de sistemas 2\Hidroeléctricas Versión Final\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmPassword.resources
+D:\backup prodriguez\Universidad\proyectos de sistemas 2\Hidroeléctricas Versión Final\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\backup prodriguez\Universidad\proyectos de sistemas 2\Hidroeléctricas Versión Final\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH Administracion.csproj.GenerateResource.Cache
+D:\backup prodriguez\Universidad\proyectos de sistemas 2\Hidroeléctricas Versión Final\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe.manifest
+D:\backup prodriguez\Universidad\proyectos de sistemas 2\Hidroeléctricas Versión Final\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.application
+D:\backup prodriguez\Universidad\proyectos de sistemas 2\Hidroeléctricas Versión Final\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe
+D:\backup prodriguez\Universidad\proyectos de sistemas 2\Hidroeléctricas Versión Final\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.pdb
+D:\backup prodriguez\Universidad\proyectos de sistemas 2\Hidroeléctricas Versión Final\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.exe.manifest
+D:\backup prodriguez\Universidad\proyectos de sistemas 2\Hidroeléctricas Versión Final\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.application
+D:\backup prodriguez\Universidad\proyectos de sistemas 2\Hidroeléctricas Versión Final\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmCargoAdicional.resources
+D:\backup prodriguez\Universidad\proyectos de sistemas 2\Hidroeléctricas Versión Final\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.selectCobroAdicional.resources
+D:\backup prodriguez\Universidad\proyectos de sistemas 2\Hidroeléctricas Versión Final\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmSelectCobroAdicional.resources
+C:\Users\JuanPa\Desktop\Hidroeléctricas Versión Cobros Adicionales\Hidroeléctricas Versión Cobros Adicionales\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe.config
+C:\Users\JuanPa\Desktop\Hidroeléctricas Versión Cobros Adicionales\Hidroeléctricas Versión Cobros Adicionales\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.exe
+C:\Users\JuanPa\Desktop\Hidroeléctricas Versión Cobros Adicionales\Hidroeléctricas Versión Cobros Adicionales\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.pdb
+C:\Users\JuanPa\Desktop\Hidroeléctricas Versión Cobros Adicionales\Hidroeléctricas Versión Cobros Adicionales\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe.manifest
+C:\Users\JuanPa\Desktop\Hidroeléctricas Versión Cobros Adicionales\Hidroeléctricas Versión Cobros Adicionales\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.application
+C:\Users\JuanPa\Desktop\Hidroeléctricas Versión Cobros Adicionales\Hidroeléctricas Versión Cobros Adicionales\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe
+C:\Users\JuanPa\Desktop\Hidroeléctricas Versión Cobros Adicionales\Hidroeléctricas Versión Cobros Adicionales\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.pdb
+C:\Users\JuanPa\Desktop\Hidroeléctricas Versión Cobros Adicionales\Hidroeléctricas Versión Cobros Adicionales\MCH Solucion\WindowsFormsApplication2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\JuanPa\Desktop\Hidroeléctricas Versión Cobros Adicionales\Hidroeléctricas Versión Cobros Adicionales\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.asocusuario.resources
+C:\Users\JuanPa\Desktop\Hidroeléctricas Versión Cobros Adicionales\Hidroeléctricas Versión Cobros Adicionales\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmCargoAdicional.resources
+C:\Users\JuanPa\Desktop\Hidroeléctricas Versión Cobros Adicionales\Hidroeléctricas Versión Cobros Adicionales\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmControlUs.resources
+C:\Users\JuanPa\Desktop\Hidroeléctricas Versión Cobros Adicionales\Hidroeléctricas Versión Cobros Adicionales\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmCuentaCorriente.resources
+C:\Users\JuanPa\Desktop\Hidroeléctricas Versión Cobros Adicionales\Hidroeléctricas Versión Cobros Adicionales\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmPerfil.resources
+C:\Users\JuanPa\Desktop\Hidroeléctricas Versión Cobros Adicionales\Hidroeléctricas Versión Cobros Adicionales\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmSelectCobroAdicional.resources
+C:\Users\JuanPa\Desktop\Hidroeléctricas Versión Cobros Adicionales\Hidroeléctricas Versión Cobros Adicionales\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmUsuarios.resources
+C:\Users\JuanPa\Desktop\Hidroeléctricas Versión Cobros Adicionales\Hidroeléctricas Versión Cobros Adicionales\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.selectCobroAdicional.resources
+C:\Users\JuanPa\Desktop\Hidroeléctricas Versión Cobros Adicionales\Hidroeléctricas Versión Cobros Adicionales\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.viewCuentaCorriente.resources
+C:\Users\JuanPa\Desktop\Hidroeléctricas Versión Cobros Adicionales\Hidroeléctricas Versión Cobros Adicionales\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.viewRecibo.resources
+C:\Users\JuanPa\Desktop\Hidroeléctricas Versión Cobros Adicionales\Hidroeléctricas Versión Cobros Adicionales\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmAyuda.resources
+C:\Users\JuanPa\Desktop\Hidroeléctricas Versión Cobros Adicionales\Hidroeléctricas Versión Cobros Adicionales\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmLectura.resources
+C:\Users\JuanPa\Desktop\Hidroeléctricas Versión Cobros Adicionales\Hidroeléctricas Versión Cobros Adicionales\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmPagos.resources
+C:\Users\JuanPa\Desktop\Hidroeléctricas Versión Cobros Adicionales\Hidroeléctricas Versión Cobros Adicionales\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmRecibo.resources
+C:\Users\JuanPa\Desktop\Hidroeléctricas Versión Cobros Adicionales\Hidroeléctricas Versión Cobros Adicionales\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmReporte.resources
+C:\Users\JuanPa\Desktop\Hidroeléctricas Versión Cobros Adicionales\Hidroeléctricas Versión Cobros Adicionales\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntContador.resources
+C:\Users\JuanPa\Desktop\Hidroeléctricas Versión Cobros Adicionales\Hidroeléctricas Versión Cobros Adicionales\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntContrato.resources
+C:\Users\JuanPa\Desktop\Hidroeléctricas Versión Cobros Adicionales\Hidroeléctricas Versión Cobros Adicionales\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmSplash.resources
+C:\Users\JuanPa\Desktop\Hidroeléctricas Versión Cobros Adicionales\Hidroeléctricas Versión Cobros Adicionales\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmMenu.resources
+C:\Users\JuanPa\Desktop\Hidroeléctricas Versión Cobros Adicionales\Hidroeléctricas Versión Cobros Adicionales\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Mantenimiento.resources
+C:\Users\JuanPa\Desktop\Hidroeléctricas Versión Cobros Adicionales\Hidroeléctricas Versión Cobros Adicionales\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntPersona.resources
+C:\Users\JuanPa\Desktop\Hidroeléctricas Versión Cobros Adicionales\Hidroeléctricas Versión Cobros Adicionales\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntVariable.resources
+C:\Users\JuanPa\Desktop\Hidroeléctricas Versión Cobros Adicionales\Hidroeléctricas Versión Cobros Adicionales\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmCambiarPassword.resources
+C:\Users\JuanPa\Desktop\Hidroeléctricas Versión Cobros Adicionales\Hidroeléctricas Versión Cobros Adicionales\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmControlCom.resources
+C:\Users\JuanPa\Desktop\Hidroeléctricas Versión Cobros Adicionales\Hidroeléctricas Versión Cobros Adicionales\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmPassword.resources
+C:\Users\JuanPa\Desktop\Hidroeléctricas Versión Cobros Adicionales\Hidroeléctricas Versión Cobros Adicionales\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\JuanPa\Desktop\Hidroeléctricas Versión Cobros Adicionales\Hidroeléctricas Versión Cobros Adicionales\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH Administracion.csproj.GenerateResource.Cache
+C:\Users\JuanPa\Desktop\Hidroeléctricas Versión Cobros Adicionales\Hidroeléctricas Versión Cobros Adicionales\MCH Solucion\WindowsFormsApplication2\obj\Debug\RdlCompile.cache
+C:\Users\JuanPa\Desktop\Hidroeléctricas Versión Cobros Adicionales\Hidroeléctricas Versión Cobros Adicionales\MCH Solucion\WindowsFormsApplication2\obj\Debug\RdlCompile.compiled
+C:\Users\JuanPa\Desktop\Hidroeléctricas Versión Cobros Adicionales\Hidroeléctricas Versión Cobros Adicionales\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.exe.manifest
+C:\Users\JuanPa\Desktop\Hidroeléctricas Versión Cobros Adicionales\Hidroeléctricas Versión Cobros Adicionales\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.application
+E:\Actualización hasta 6-11\Hidroeléctricas Versión Cobros Adicionales\Hidroeléctricas Versión Cobros Adicionales\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe.config
+E:\Actualización hasta 6-11\Hidroeléctricas Versión Cobros Adicionales\Hidroeléctricas Versión Cobros Adicionales\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.exe
+E:\Actualización hasta 6-11\Hidroeléctricas Versión Cobros Adicionales\Hidroeléctricas Versión Cobros Adicionales\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.pdb
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 6-11\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe.config
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 6-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.exe
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 6-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.pdb
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 6-11\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe.manifest
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 6-11\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.application
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 6-11\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 6-11\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.pdb
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 6-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 6-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.asocusuario.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 6-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmCaja.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 6-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmCargoAdicional.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 6-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmControlUs.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 6-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmCuentaCorriente.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 6-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmPerfil.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 6-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmSelectCobroAdicional.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 6-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmUsuarios.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 6-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.selectCobroAdicional.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 6-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.viewCuentaCorriente.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 6-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.viewRecibo.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 6-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmAyuda.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 6-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmLectura.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 6-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmPagos.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 6-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmRecibo.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 6-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmReporte.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 6-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntContador.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 6-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntContrato.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 6-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmSplash.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 6-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmMenu.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 6-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Mantenimiento.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 6-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntPersona.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 6-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntVariable.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 6-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmCambiarPassword.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 6-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmControlCom.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 6-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmPassword.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 6-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 6-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH Administracion.csproj.GenerateResource.Cache
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 6-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\RdlCompile.cache
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 6-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\RdlCompile.compiled
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 6-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.exe.manifest
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 6-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.application
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 6-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmConsultaCaja.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 6-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.viewConsultaCaja.resources
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe.config
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.exe
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.pdb
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe.manifest
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.application
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.pdb
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.asocusuario.resources
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmCaja.resources
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmCargoAdicional.resources
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmConsultaCaja.resources
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmControlUs.resources
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmCuentaCorriente.resources
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmPerfil.resources
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmSelectCobroAdicional.resources
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmUsuarios.resources
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.selectCobroAdicional.resources
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.viewConsultaCaja.resources
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.viewCuentaCorriente.resources
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.viewRecibo.resources
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmAyuda.resources
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmLectura.resources
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmPagos.resources
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmRecibo.resources
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmReporte.resources
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntContador.resources
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntContrato.resources
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmSplash.resources
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmMenu.resources
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Mantenimiento.resources
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntPersona.resources
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntVariable.resources
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmCambiarPassword.resources
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmControlCom.resources
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmPassword.resources
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH Administracion.csproj.GenerateResource.Cache
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\RdlCompile.cache
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\RdlCompile.compiled
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.exe.manifest
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.application
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11 JP\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe.config
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11 JP\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.exe
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11 JP\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.pdb
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11 JP\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe.manifest
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11 JP\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.application
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11 JP\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11 JP\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.pdb
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11 JP\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11 JP\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.asocusuario.resources
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11 JP\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmCaja.resources
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11 JP\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmCargoAdicional.resources
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11 JP\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmConsultaCaja.resources
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11 JP\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmControlUs.resources
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11 JP\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmCuentaCorriente.resources
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11 JP\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmPerfil.resources
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11 JP\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmSelectCobroAdicional.resources
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11 JP\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmUsuarios.resources
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11 JP\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.selectCobroAdicional.resources
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11 JP\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.viewConsultaCaja.resources
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11 JP\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.viewCuentaCorriente.resources
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11 JP\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.viewRecibo.resources
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11 JP\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmAyuda.resources
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11 JP\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmLectura.resources
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11 JP\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmPagos.resources
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11 JP\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmRecibo.resources
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11 JP\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmReporte.resources
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11 JP\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntContador.resources
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11 JP\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntContrato.resources
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11 JP\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmSplash.resources
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11 JP\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmMenu.resources
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11 JP\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Mantenimiento.resources
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11 JP\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntPersona.resources
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11 JP\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntVariable.resources
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11 JP\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmCambiarPassword.resources
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11 JP\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmControlCom.resources
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11 JP\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmPassword.resources
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11 JP\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11 JP\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH Administracion.csproj.GenerateResource.Cache
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11 JP\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\RdlCompile.cache
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11 JP\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\RdlCompile.compiled
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11 JP\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.exe.manifest
+C:\Users\JuanPa\Desktop\Actualización hasta 18-11 JP\Actualización hasta 18-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.application
+C:\Users\JuanPa\Desktop\Actualización hasta 19-11 JP\Actualización hasta 19-11 JP\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe.config
+C:\Users\JuanPa\Desktop\Actualización hasta 19-11 JP\Actualización hasta 19-11 JP\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.exe
+C:\Users\JuanPa\Desktop\Actualización hasta 19-11 JP\Actualización hasta 19-11 JP\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.pdb
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Cambios 19-11 JP\Actualización hasta 19-11 JP\Actualización hasta 19-11 JP\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe.config
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Cambios 19-11 JP\Actualización hasta 19-11 JP\Actualización hasta 19-11 JP\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.exe
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Cambios 19-11 JP\Actualización hasta 19-11 JP\Actualización hasta 19-11 JP\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.pdb
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Cambios 19-11 JP\Actualización hasta 19-11 JP\Actualización hasta 19-11 JP\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe.manifest
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Cambios 19-11 JP\Actualización hasta 19-11 JP\Actualización hasta 19-11 JP\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.application
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Cambios 19-11 JP\Actualización hasta 19-11 JP\Actualización hasta 19-11 JP\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Cambios 19-11 JP\Actualización hasta 19-11 JP\Actualización hasta 19-11 JP\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.pdb
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Cambios 19-11 JP\Actualización hasta 19-11 JP\Actualización hasta 19-11 JP\MCH Solucion\WindowsFormsApplication2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Cambios 19-11 JP\Actualización hasta 19-11 JP\Actualización hasta 19-11 JP\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.asocusuario.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Cambios 19-11 JP\Actualización hasta 19-11 JP\Actualización hasta 19-11 JP\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmCaja.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Cambios 19-11 JP\Actualización hasta 19-11 JP\Actualización hasta 19-11 JP\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmCargoAdicional.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Cambios 19-11 JP\Actualización hasta 19-11 JP\Actualización hasta 19-11 JP\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmConsultaCaja.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Cambios 19-11 JP\Actualización hasta 19-11 JP\Actualización hasta 19-11 JP\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmControlUs.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Cambios 19-11 JP\Actualización hasta 19-11 JP\Actualización hasta 19-11 JP\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmCuentaCorriente.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Cambios 19-11 JP\Actualización hasta 19-11 JP\Actualización hasta 19-11 JP\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmPerfil.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Cambios 19-11 JP\Actualización hasta 19-11 JP\Actualización hasta 19-11 JP\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmSelectCobroAdicional.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Cambios 19-11 JP\Actualización hasta 19-11 JP\Actualización hasta 19-11 JP\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmUsuarios.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Cambios 19-11 JP\Actualización hasta 19-11 JP\Actualización hasta 19-11 JP\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.selectCobroAdicional.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Cambios 19-11 JP\Actualización hasta 19-11 JP\Actualización hasta 19-11 JP\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.viewConsultaCaja.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Cambios 19-11 JP\Actualización hasta 19-11 JP\Actualización hasta 19-11 JP\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.viewCuentaCorriente.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Cambios 19-11 JP\Actualización hasta 19-11 JP\Actualización hasta 19-11 JP\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.viewRecibo.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Cambios 19-11 JP\Actualización hasta 19-11 JP\Actualización hasta 19-11 JP\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmAyuda.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Cambios 19-11 JP\Actualización hasta 19-11 JP\Actualización hasta 19-11 JP\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmLectura.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Cambios 19-11 JP\Actualización hasta 19-11 JP\Actualización hasta 19-11 JP\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmPagos.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Cambios 19-11 JP\Actualización hasta 19-11 JP\Actualización hasta 19-11 JP\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmRecibo.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Cambios 19-11 JP\Actualización hasta 19-11 JP\Actualización hasta 19-11 JP\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmReporte.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Cambios 19-11 JP\Actualización hasta 19-11 JP\Actualización hasta 19-11 JP\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntContador.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Cambios 19-11 JP\Actualización hasta 19-11 JP\Actualización hasta 19-11 JP\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntContrato.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Cambios 19-11 JP\Actualización hasta 19-11 JP\Actualización hasta 19-11 JP\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmSplash.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Cambios 19-11 JP\Actualización hasta 19-11 JP\Actualización hasta 19-11 JP\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmMenu.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Cambios 19-11 JP\Actualización hasta 19-11 JP\Actualización hasta 19-11 JP\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Mantenimiento.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Cambios 19-11 JP\Actualización hasta 19-11 JP\Actualización hasta 19-11 JP\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntPersona.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Cambios 19-11 JP\Actualización hasta 19-11 JP\Actualización hasta 19-11 JP\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntVariable.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Cambios 19-11 JP\Actualización hasta 19-11 JP\Actualización hasta 19-11 JP\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmCambiarPassword.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Cambios 19-11 JP\Actualización hasta 19-11 JP\Actualización hasta 19-11 JP\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmControlCom.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Cambios 19-11 JP\Actualización hasta 19-11 JP\Actualización hasta 19-11 JP\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmPassword.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Cambios 19-11 JP\Actualización hasta 19-11 JP\Actualización hasta 19-11 JP\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Cambios 19-11 JP\Actualización hasta 19-11 JP\Actualización hasta 19-11 JP\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH Administracion.csproj.GenerateResource.Cache
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Cambios 19-11 JP\Actualización hasta 19-11 JP\Actualización hasta 19-11 JP\MCH Solucion\WindowsFormsApplication2\obj\Debug\RdlCompile.cache
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Cambios 19-11 JP\Actualización hasta 19-11 JP\Actualización hasta 19-11 JP\MCH Solucion\WindowsFormsApplication2\obj\Debug\RdlCompile.compiled
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Cambios 19-11 JP\Actualización hasta 19-11 JP\Actualización hasta 19-11 JP\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.exe.manifest
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Cambios 19-11 JP\Actualización hasta 19-11 JP\Actualización hasta 19-11 JP\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.application
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Cambios 19-11 JP\Actualización hasta 19-11 JP\Actualización hasta 19-11 JP\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.viewReciboPago.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Cambios 19-11 JP\Actualización hasta 19-11 JP\Actualización hasta 19-11 JP\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmEliminarPago.resources
+C:\Actualización hasta 29-11\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe.config
+C:\Actualización hasta 29-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.exe
+C:\Actualización hasta 29-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.pdb
+C:\Actualización hasta 29-11\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe.manifest
+C:\Actualización hasta 29-11\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.application
+C:\Actualización hasta 29-11\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe
+C:\Actualización hasta 29-11\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.pdb
+C:\Actualización hasta 29-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\ResolveAssemblyReference.cache
+C:\Actualización hasta 29-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.asocusuario.resources
+C:\Actualización hasta 29-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmCaja.resources
+C:\Actualización hasta 29-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmCargoAdicional.resources
+C:\Actualización hasta 29-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmConsultaCaja.resources
+C:\Actualización hasta 29-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmControlUs.resources
+C:\Actualización hasta 29-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmCuentaCorriente.resources
+C:\Actualización hasta 29-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmDialogCargoAbonoAdicional.resources
+C:\Actualización hasta 29-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmEliminarPago.resources
+C:\Actualización hasta 29-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmPerfil.resources
+C:\Actualización hasta 29-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmSelectCobroAdicional.resources
+C:\Actualización hasta 29-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmUsuarios.resources
+C:\Actualización hasta 29-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.selectCobroAdicional.resources
+C:\Actualización hasta 29-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.viewConsultaCaja.resources
+C:\Actualización hasta 29-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.viewCuentaCorriente.resources
+C:\Actualización hasta 29-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.viewRecibo.resources
+C:\Actualización hasta 29-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmAyuda.resources
+C:\Actualización hasta 29-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmLectura.resources
+C:\Actualización hasta 29-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmPagos.resources
+C:\Actualización hasta 29-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmRecibo.resources
+C:\Actualización hasta 29-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmReporte.resources
+C:\Actualización hasta 29-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntContador.resources
+C:\Actualización hasta 29-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntContrato.resources
+C:\Actualización hasta 29-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmSplash.resources
+C:\Actualización hasta 29-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmMenu.resources
+C:\Actualización hasta 29-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Mantenimiento.resources
+C:\Actualización hasta 29-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntPersona.resources
+C:\Actualización hasta 29-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntVariable.resources
+C:\Actualización hasta 29-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.viewReciboPago.resources
+C:\Actualización hasta 29-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmCambiarPassword.resources
+C:\Actualización hasta 29-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmControlCom.resources
+C:\Actualización hasta 29-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmPassword.resources
+C:\Actualización hasta 29-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Actualización hasta 29-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH Administracion.csproj.GenerateResource.Cache
+C:\Actualización hasta 29-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.exe.manifest
+C:\Actualización hasta 29-11\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.application
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 2-12\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe.config
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 2-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.exe
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 2-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.pdb
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 2-12\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe.manifest
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 2-12\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.application
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 2-12\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 2-12\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.pdb
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 2-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 2-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.asocusuario.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 2-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmCaja.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 2-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmCargoAdicional.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 2-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmConsultaCaja.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 2-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmControlUs.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 2-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmCuentaCorriente.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 2-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmDialogCargoAbonoAdicional.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 2-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmEliminarPago.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 2-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmPerfil.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 2-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmSelectCobroAdicional.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 2-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmUsuarios.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 2-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.selectCobroAdicional.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 2-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.viewConsultaCaja.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 2-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.viewCuentaCorriente.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 2-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.viewRecibo.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 2-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmAyuda.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 2-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmLectura.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 2-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmPagos.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 2-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmRecibo.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 2-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmReporte.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 2-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntContador.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 2-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntContrato.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 2-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmSplash.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 2-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmMenu.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 2-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Mantenimiento.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 2-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntPersona.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 2-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntVariable.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 2-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.viewReciboPago.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 2-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmCambiarPassword.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 2-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmControlCom.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 2-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmPassword.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 2-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 2-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH Administracion.csproj.GenerateResource.Cache
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 2-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\RdlCompile.cache
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 2-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\RdlCompile.compiled
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 2-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.exe.manifest
+C:\Users\JoseEstuardo\Dropbox\Proyecto Hidroelectricas 2013\Actualización hasta 2-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.application
+C:\Users\Cristian\Desktop\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe.config
+C:\Users\Cristian\Desktop\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.exe
+C:\Users\Cristian\Desktop\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.pdb
+C:\Users\Cristian\Desktop\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\Interop.WMPLib.dll
+C:\Users\Cristian\Desktop\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH Administracion.csproj.ResolveComReference.cache
+C:\Users\Cristian\Desktop\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe.manifest
+C:\Users\Cristian\Desktop\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.application
+C:\Users\Cristian\Desktop\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe
+C:\Users\Cristian\Desktop\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.pdb
+C:\Users\Cristian\Desktop\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Cristian\Desktop\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\bin\Debug\Interop.WMPLib.dll
+C:\Users\Cristian\Desktop\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Cristian\Desktop\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.asocusuario.resources
+C:\Users\Cristian\Desktop\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmCaja.resources
+C:\Users\Cristian\Desktop\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmCargoAdicional.resources
+C:\Users\Cristian\Desktop\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmConsultaCaja.resources
+C:\Users\Cristian\Desktop\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmControlUs.resources
+C:\Users\Cristian\Desktop\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmCuentaCorriente.resources
+C:\Users\Cristian\Desktop\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmDialogCargoAbonoAdicional.resources
+C:\Users\Cristian\Desktop\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmEliminarPago.resources
+C:\Users\Cristian\Desktop\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmPerfil.resources
+C:\Users\Cristian\Desktop\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmSelectCobroAdicional.resources
+C:\Users\Cristian\Desktop\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmUsuarios.resources
+C:\Users\Cristian\Desktop\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.selectCobroAdicional.resources
+C:\Users\Cristian\Desktop\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.viewConsultaCaja.resources
+C:\Users\Cristian\Desktop\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.viewCuentaCorriente.resources
+C:\Users\Cristian\Desktop\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.viewRecibo.resources
+C:\Users\Cristian\Desktop\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmAyuda.resources
+C:\Users\Cristian\Desktop\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmLectura.resources
+C:\Users\Cristian\Desktop\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmPagos.resources
+C:\Users\Cristian\Desktop\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmRecibo.resources
+C:\Users\Cristian\Desktop\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmReporte.resources
+C:\Users\Cristian\Desktop\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntContador.resources
+C:\Users\Cristian\Desktop\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntContrato.resources
+C:\Users\Cristian\Desktop\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmSplash.resources
+C:\Users\Cristian\Desktop\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmMenu.resources
+C:\Users\Cristian\Desktop\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Mantenimiento.resources
+C:\Users\Cristian\Desktop\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntPersona.resources
+C:\Users\Cristian\Desktop\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntVariable.resources
+C:\Users\Cristian\Desktop\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.viewReciboPago.resources
+C:\Users\Cristian\Desktop\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmCambiarPassword.resources
+C:\Users\Cristian\Desktop\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmControlCom.resources
+C:\Users\Cristian\Desktop\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmPassword.resources
+C:\Users\Cristian\Desktop\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Cristian\Desktop\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH Administracion.csproj.GenerateResource.Cache
+C:\Users\Cristian\Desktop\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\RdlCompile.cache
+C:\Users\Cristian\Desktop\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\RdlCompile.compiled
+C:\Users\Cristian\Desktop\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.exe.manifest
+C:\Users\Cristian\Desktop\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.application
+C:\Users\Cristian\Desktop\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmAyudaVideo.resources
+C:\Users\Cristian\Desktop\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.FormulariosAyuda.frmAyudaVideoMenuContadores.resources
+C:\Users\Cristian\Desktop\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.FormulariosAyuda.frmAyudaVideoMenuContratos.resources
+C:\Users\Cristian\Desktop\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.FormulariosAyuda.frmAyudaVideoMenuPersonas.resources
+C:\Users\Cristian\Desktop\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmReproducirVideo.resources
+C:\Users\Cristian\Desktop\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmAyudaVideoContador.resources
+C:\Users\prodriguez.CAMPERO\SkyDrive\Public\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe.config
+C:\Users\prodriguez.CAMPERO\SkyDrive\Public\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\Interop.WMPLib.dll
+C:\Users\prodriguez.CAMPERO\SkyDrive\Public\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH Administracion.csproj.ResolveComReference.cache
+C:\Users\prodriguez.CAMPERO\SkyDrive\Public\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.exe
+C:\Users\prodriguez.CAMPERO\SkyDrive\Public\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.pdb
+C:\Users\prodriguez.CAMPERO\SkyDrive\Public\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe.manifest
+C:\Users\prodriguez.CAMPERO\SkyDrive\Public\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.application
+C:\Users\prodriguez.CAMPERO\SkyDrive\Public\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe
+C:\Users\prodriguez.CAMPERO\SkyDrive\Public\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.pdb
+C:\Users\prodriguez.CAMPERO\SkyDrive\Public\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\prodriguez.CAMPERO\SkyDrive\Public\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\bin\Debug\Interop.WMPLib.dll
+C:\Users\prodriguez.CAMPERO\SkyDrive\Public\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\prodriguez.CAMPERO\SkyDrive\Public\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.asocusuario.resources
+C:\Users\prodriguez.CAMPERO\SkyDrive\Public\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmAyudaVideo.resources
+C:\Users\prodriguez.CAMPERO\SkyDrive\Public\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.FormulariosAyuda.frmAyudaVideoMenuContadores.resources
+C:\Users\prodriguez.CAMPERO\SkyDrive\Public\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.FormulariosAyuda.frmAyudaVideoMenuContratos.resources
+C:\Users\prodriguez.CAMPERO\SkyDrive\Public\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.FormulariosAyuda.frmAyudaVideoMenuPersonas.resources
+C:\Users\prodriguez.CAMPERO\SkyDrive\Public\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmReproducirVideo.resources
+C:\Users\prodriguez.CAMPERO\SkyDrive\Public\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmAyudaVideoContador.resources
+C:\Users\prodriguez.CAMPERO\SkyDrive\Public\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmCaja.resources
+C:\Users\prodriguez.CAMPERO\SkyDrive\Public\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmCargoAdicional.resources
+C:\Users\prodriguez.CAMPERO\SkyDrive\Public\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmConsultaCaja.resources
+C:\Users\prodriguez.CAMPERO\SkyDrive\Public\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmControlUs.resources
+C:\Users\prodriguez.CAMPERO\SkyDrive\Public\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmCuentaCorriente.resources
+C:\Users\prodriguez.CAMPERO\SkyDrive\Public\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmDialogCargoAbonoAdicional.resources
+C:\Users\prodriguez.CAMPERO\SkyDrive\Public\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmEliminarPago.resources
+C:\Users\prodriguez.CAMPERO\SkyDrive\Public\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmPerfil.resources
+C:\Users\prodriguez.CAMPERO\SkyDrive\Public\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmSelectCobroAdicional.resources
+C:\Users\prodriguez.CAMPERO\SkyDrive\Public\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmUsuarios.resources
+C:\Users\prodriguez.CAMPERO\SkyDrive\Public\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.selectCobroAdicional.resources
+C:\Users\prodriguez.CAMPERO\SkyDrive\Public\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.viewConsultaCaja.resources
+C:\Users\prodriguez.CAMPERO\SkyDrive\Public\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.viewCuentaCorriente.resources
+C:\Users\prodriguez.CAMPERO\SkyDrive\Public\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.viewRecibo.resources
+C:\Users\prodriguez.CAMPERO\SkyDrive\Public\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmAyuda.resources
+C:\Users\prodriguez.CAMPERO\SkyDrive\Public\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmLectura.resources
+C:\Users\prodriguez.CAMPERO\SkyDrive\Public\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmPagos.resources
+C:\Users\prodriguez.CAMPERO\SkyDrive\Public\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmRecibo.resources
+C:\Users\prodriguez.CAMPERO\SkyDrive\Public\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmReporte.resources
+C:\Users\prodriguez.CAMPERO\SkyDrive\Public\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntContador.resources
+C:\Users\prodriguez.CAMPERO\SkyDrive\Public\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntContrato.resources
+C:\Users\prodriguez.CAMPERO\SkyDrive\Public\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmSplash.resources
+C:\Users\prodriguez.CAMPERO\SkyDrive\Public\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmMenu.resources
+C:\Users\prodriguez.CAMPERO\SkyDrive\Public\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Mantenimiento.resources
+C:\Users\prodriguez.CAMPERO\SkyDrive\Public\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntPersona.resources
+C:\Users\prodriguez.CAMPERO\SkyDrive\Public\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntVariable.resources
+C:\Users\prodriguez.CAMPERO\SkyDrive\Public\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.viewReciboPago.resources
+C:\Users\prodriguez.CAMPERO\SkyDrive\Public\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmCambiarPassword.resources
+C:\Users\prodriguez.CAMPERO\SkyDrive\Public\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmControlCom.resources
+C:\Users\prodriguez.CAMPERO\SkyDrive\Public\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmPassword.resources
+C:\Users\prodriguez.CAMPERO\SkyDrive\Public\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\prodriguez.CAMPERO\SkyDrive\Public\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH Administracion.csproj.GenerateResource.Cache
+C:\Users\prodriguez.CAMPERO\SkyDrive\Public\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.exe.manifest
+C:\Users\prodriguez.CAMPERO\SkyDrive\Public\Actualización hasta 3-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.application
+C:\Users\Cristian\Desktop\Actualización hasta 4-12\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe.config
+C:\Users\Cristian\Desktop\Actualización hasta 4-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\Interop.WMPLib.dll
+C:\Users\Cristian\Desktop\Actualización hasta 4-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH Administracion.csproj.ResolveComReference.cache
+C:\Users\Cristian\Desktop\Actualización hasta 4-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.exe
+C:\Users\Cristian\Desktop\Actualización hasta 4-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.pdb
+C:\Users\Cristian\Desktop\Actualización hasta 4-12\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe.manifest
+C:\Users\Cristian\Desktop\Actualización hasta 4-12\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.application
+C:\Users\Cristian\Desktop\Actualización hasta 4-12\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe
+C:\Users\Cristian\Desktop\Actualización hasta 4-12\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.pdb
+C:\Users\Cristian\Desktop\Actualización hasta 4-12\MCH Solucion\WindowsFormsApplication2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Cristian\Desktop\Actualización hasta 4-12\MCH Solucion\WindowsFormsApplication2\bin\Debug\Interop.WMPLib.dll
+C:\Users\Cristian\Desktop\Actualización hasta 4-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Cristian\Desktop\Actualización hasta 4-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.asocusuario.resources
+C:\Users\Cristian\Desktop\Actualización hasta 4-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmAyudaVideo.resources
+C:\Users\Cristian\Desktop\Actualización hasta 4-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.FormulariosAyuda.frmAyudaVideoMenuContadores.resources
+C:\Users\Cristian\Desktop\Actualización hasta 4-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.FormulariosAyuda.frmAyudaVideoMenuContratos.resources
+C:\Users\Cristian\Desktop\Actualización hasta 4-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.FormulariosAyuda.frmAyudaVideoMenuPersonas.resources
+C:\Users\Cristian\Desktop\Actualización hasta 4-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmReproducirVideo.resources
+C:\Users\Cristian\Desktop\Actualización hasta 4-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmCaja.resources
+C:\Users\Cristian\Desktop\Actualización hasta 4-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmCargoAdicional.resources
+C:\Users\Cristian\Desktop\Actualización hasta 4-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmConsultaCaja.resources
+C:\Users\Cristian\Desktop\Actualización hasta 4-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmControlUs.resources
+C:\Users\Cristian\Desktop\Actualización hasta 4-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmCuentaCorriente.resources
+C:\Users\Cristian\Desktop\Actualización hasta 4-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmDialogCargoAbonoAdicional.resources
+C:\Users\Cristian\Desktop\Actualización hasta 4-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmEliminarPago.resources
+C:\Users\Cristian\Desktop\Actualización hasta 4-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmPerfil.resources
+C:\Users\Cristian\Desktop\Actualización hasta 4-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmSelectCobroAdicional.resources
+C:\Users\Cristian\Desktop\Actualización hasta 4-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmUsuarios.resources
+C:\Users\Cristian\Desktop\Actualización hasta 4-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.selectCobroAdicional.resources
+C:\Users\Cristian\Desktop\Actualización hasta 4-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.viewConsultaCaja.resources
+C:\Users\Cristian\Desktop\Actualización hasta 4-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.viewCuentaCorriente.resources
+C:\Users\Cristian\Desktop\Actualización hasta 4-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.viewRecibo.resources
+C:\Users\Cristian\Desktop\Actualización hasta 4-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmAyuda.resources
+C:\Users\Cristian\Desktop\Actualización hasta 4-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmLectura.resources
+C:\Users\Cristian\Desktop\Actualización hasta 4-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmPagos.resources
+C:\Users\Cristian\Desktop\Actualización hasta 4-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmRecibo.resources
+C:\Users\Cristian\Desktop\Actualización hasta 4-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmReporte.resources
+C:\Users\Cristian\Desktop\Actualización hasta 4-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntContador.resources
+C:\Users\Cristian\Desktop\Actualización hasta 4-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntContrato.resources
+C:\Users\Cristian\Desktop\Actualización hasta 4-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmSplash.resources
+C:\Users\Cristian\Desktop\Actualización hasta 4-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmMenu.resources
+C:\Users\Cristian\Desktop\Actualización hasta 4-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Mantenimiento.resources
+C:\Users\Cristian\Desktop\Actualización hasta 4-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntPersona.resources
+C:\Users\Cristian\Desktop\Actualización hasta 4-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntVariable.resources
+C:\Users\Cristian\Desktop\Actualización hasta 4-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.viewReciboPago.resources
+C:\Users\Cristian\Desktop\Actualización hasta 4-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmCambiarPassword.resources
+C:\Users\Cristian\Desktop\Actualización hasta 4-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmControlCom.resources
+C:\Users\Cristian\Desktop\Actualización hasta 4-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmPassword.resources
+C:\Users\Cristian\Desktop\Actualización hasta 4-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Cristian\Desktop\Actualización hasta 4-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH Administracion.csproj.GenerateResource.Cache
+C:\Users\Cristian\Desktop\Actualización hasta 4-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\RdlCompile.cache
+C:\Users\Cristian\Desktop\Actualización hasta 4-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\RdlCompile.compiled
+C:\Users\Cristian\Desktop\Actualización hasta 4-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.exe.manifest
+C:\Users\Cristian\Desktop\Actualización hasta 4-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.application
+C:\Users\Cristian\Desktop\Actualización hasta 4-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.FormulariosAyuda.frmAyudaVideoMenuLecturas.resources
+C:\Users\Cristian\Desktop\Actualización hasta 4-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.FormulariosAyuda.frmAyudaVideoVirus.resources
+C:\Users\Cristian\Desktop\Actualización hasta 4-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.FormulariosAyuda.frmElementosAprendizajeWeb.resources
+C:\Users\Cristian\Desktop\Actualización hasta 4-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.FormulariosAyuda.frmAyudaVideoMenuPagos.resources
+C:\Users\Cristian\Desktop\Actualización hasta 4-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.FormulariosAyuda.frmAyudaVideoMenuRecibos.resources
+C:\Users\Cristian\Desktop\Actualización hasta 4-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.FormulariosAyuda.frmAyudaVideoMenuUsuarios.resources
+C:\Users\Cristian\Desktop\Actualización hasta 4-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.FormulariosAyuda.frmAyudaVideoMenuComunidad.resources
+C:\Users\Cristian\Desktop\Actualización hasta 4-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.FormulariosAyuda.frmAyudaVideoMenuCaja.resources
+C:\Users\Cristian\Desktop\Actualización hasta 4-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.FormulariosAyuda.frmAyudaVideoMenuConfiguración.resources
+C:\Users\Cristian\Desktop\Actualización hasta 4-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.FormulariosAyuda.frmAyudaVideoMenuCobroAdicional.resources
+C:\Users\Cristian\Desktop\Actualización hasta 4-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.FormulariosAyuda.frmAyudaVideoMenuCuentaCorriente.resources
+C:\Users\Cristian\Desktop\Actualización hasta 4-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.FormulariosAyuda.frmAyudaVideoMenuCopia.resources
+C:\Users\Cristian\Desktop\Actualización hasta 4-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.FormulariosAyuda.frmAyudaVideoMenuReportes.resources
+C:\Users\Cristian\Desktop\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe.config
+C:\Users\Cristian\Desktop\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\Interop.WMPLib.dll
+C:\Users\Cristian\Desktop\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH Administracion.csproj.ResolveComReference.cache
+C:\Users\Cristian\Desktop\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.exe
+C:\Users\Cristian\Desktop\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.pdb
+C:\Users\Cristian\Desktop\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe.manifest
+C:\Users\Cristian\Desktop\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.application
+C:\Users\Cristian\Desktop\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe
+C:\Users\Cristian\Desktop\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.pdb
+C:\Users\Cristian\Desktop\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Cristian\Desktop\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\bin\Debug\Interop.WMPLib.dll
+C:\Users\Cristian\Desktop\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Cristian\Desktop\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.asocusuario.resources
+C:\Users\Cristian\Desktop\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.FormulariosAyuda.frmAyudaVideoMenuCobroAdicional.resources
+C:\Users\Cristian\Desktop\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.FormulariosAyuda.frmAyudaVideoMenuCopia.resources
+C:\Users\Cristian\Desktop\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.FormulariosAyuda.frmAyudaVideoMenuCuentaCorriente.resources
+C:\Users\Cristian\Desktop\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmAyudaVideo.resources
+C:\Users\Cristian\Desktop\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.FormulariosAyuda.frmAyudaVideoMenuComunidad.resources
+C:\Users\Cristian\Desktop\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.FormulariosAyuda.frmAyudaVideoMenuConfiguración.resources
+C:\Users\Cristian\Desktop\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.FormulariosAyuda.frmAyudaVideoMenuContadores.resources
+C:\Users\Cristian\Desktop\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.FormulariosAyuda.frmAyudaVideoMenuContratos.resources
+C:\Users\Cristian\Desktop\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.FormulariosAyuda.frmAyudaVideoMenuCaja.resources
+C:\Users\Cristian\Desktop\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.FormulariosAyuda.frmAyudaVideoMenuLecturas.resources
+C:\Users\Cristian\Desktop\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.FormulariosAyuda.frmAyudaVideoMenuPersonas.resources
+C:\Users\Cristian\Desktop\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.FormulariosAyuda.frmAyudaVideoMenuPagos.resources
+C:\Users\Cristian\Desktop\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.FormulariosAyuda.frmAyudaVideoMenuRecibos.resources
+C:\Users\Cristian\Desktop\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.FormulariosAyuda.frmAyudaVideoMenuReportes.resources
+C:\Users\Cristian\Desktop\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.FormulariosAyuda.frmAyudaVideoMenuUsuarios.resources
+C:\Users\Cristian\Desktop\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.FormulariosAyuda.frmAyudaVideoVirus.resources
+C:\Users\Cristian\Desktop\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.FormulariosAyuda.frmElementosAprendizajeWeb.resources
+C:\Users\Cristian\Desktop\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmReproducirVideo.resources
+C:\Users\Cristian\Desktop\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmCaja.resources
+C:\Users\Cristian\Desktop\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmCargoAdicional.resources
+C:\Users\Cristian\Desktop\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmConsultaCaja.resources
+C:\Users\Cristian\Desktop\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmControlUs.resources
+C:\Users\Cristian\Desktop\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmCuentaCorriente.resources
+C:\Users\Cristian\Desktop\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmDialogCargoAbonoAdicional.resources
+C:\Users\Cristian\Desktop\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmEliminarPago.resources
+C:\Users\Cristian\Desktop\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmPerfil.resources
+C:\Users\Cristian\Desktop\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmSelectCobroAdicional.resources
+C:\Users\Cristian\Desktop\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmUsuarios.resources
+C:\Users\Cristian\Desktop\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.selectCobroAdicional.resources
+C:\Users\Cristian\Desktop\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.viewConsultaCaja.resources
+C:\Users\Cristian\Desktop\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.viewCuentaCorriente.resources
+C:\Users\Cristian\Desktop\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.viewRecibo.resources
+C:\Users\Cristian\Desktop\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmAyuda.resources
+C:\Users\Cristian\Desktop\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmLectura.resources
+C:\Users\Cristian\Desktop\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmPagos.resources
+C:\Users\Cristian\Desktop\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmRecibo.resources
+C:\Users\Cristian\Desktop\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmReporte.resources
+C:\Users\Cristian\Desktop\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntContador.resources
+C:\Users\Cristian\Desktop\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntContrato.resources
+C:\Users\Cristian\Desktop\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmSplash.resources
+C:\Users\Cristian\Desktop\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmMenu.resources
+C:\Users\Cristian\Desktop\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Mantenimiento.resources
+C:\Users\Cristian\Desktop\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntPersona.resources
+C:\Users\Cristian\Desktop\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntVariable.resources
+C:\Users\Cristian\Desktop\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.viewReciboPago.resources
+C:\Users\Cristian\Desktop\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmCambiarPassword.resources
+C:\Users\Cristian\Desktop\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmControlCom.resources
+C:\Users\Cristian\Desktop\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmPassword.resources
+C:\Users\Cristian\Desktop\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Cristian\Desktop\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH Administracion.csproj.GenerateResource.Cache
+C:\Users\Cristian\Desktop\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\RdlCompile.cache
+C:\Users\Cristian\Desktop\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\RdlCompile.compiled
+C:\Users\Cristian\Desktop\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.exe.manifest
+C:\Users\Cristian\Desktop\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.application
+C:\Documents and Settings\Jose\Escritorio\Actualización hasta 5-12\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jose\Escritorio\Actualización hasta 5-12\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\Jose\Escritorio\Actualización hasta 5-12\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH Administracion.csproj.ResolveComReference.cache
+C:\Documents and Settings\Jose\Escritorio\Actualización hasta 5-12\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.asocusuario.resources
+C:\Documents and Settings\Jose\Escritorio\Actualización hasta 5-12\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.FormulariosAyuda.frmAyudaVideoMenuCobroAdicional.resources
+C:\Documents and Settings\Jose\Escritorio\Actualización hasta 5-12\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.FormulariosAyuda.frmAyudaVideoMenuCopia.resources
+C:\Documents and Settings\Jose\Escritorio\Actualización hasta 5-12\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.FormulariosAyuda.frmAyudaVideoMenuCuentaCorriente.resources
+C:\Documents and Settings\Jose\Escritorio\Actualización hasta 5-12\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmAyudaVideo.resources
+C:\Documents and Settings\Jose\Escritorio\Actualización hasta 5-12\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.FormulariosAyuda.frmAyudaVideoMenuComunidad.resources
+C:\Documents and Settings\Jose\Escritorio\Actualización hasta 5-12\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.FormulariosAyuda.frmAyudaVideoMenuConfiguración.resources
+C:\Documents and Settings\Jose\Escritorio\Actualización hasta 5-12\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.FormulariosAyuda.frmAyudaVideoMenuContadores.resources
+C:\Documents and Settings\Jose\Escritorio\Actualización hasta 5-12\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.FormulariosAyuda.frmAyudaVideoMenuContratos.resources
+C:\Documents and Settings\Jose\Escritorio\Actualización hasta 5-12\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.FormulariosAyuda.frmAyudaVideoMenuCaja.resources
+C:\Documents and Settings\Jose\Escritorio\Actualización hasta 5-12\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.FormulariosAyuda.frmAyudaVideoMenuLecturas.resources
+C:\Documents and Settings\Jose\Escritorio\Actualización hasta 5-12\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.FormulariosAyuda.frmAyudaVideoMenuPersonas.resources
+C:\Documents and Settings\Jose\Escritorio\Actualización hasta 5-12\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.FormulariosAyuda.frmAyudaVideoMenuPagos.resources
+C:\Documents and Settings\Jose\Escritorio\Actualización hasta 5-12\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.FormulariosAyuda.frmAyudaVideoMenuRecibos.resources
+C:\Documents and Settings\Jose\Escritorio\Actualización hasta 5-12\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.FormulariosAyuda.frmAyudaVideoMenuReportes.resources
+C:\Documents and Settings\Jose\Escritorio\Actualización hasta 5-12\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.FormulariosAyuda.frmAyudaVideoMenuUsuarios.resources
+C:\Documents and Settings\Jose\Escritorio\Actualización hasta 5-12\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.FormulariosAyuda.frmAyudaVideoVirus.resources
+C:\Documents and Settings\Jose\Escritorio\Actualización hasta 5-12\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.FormulariosAyuda.frmElementosAprendizajeWeb.resources
+C:\Documents and Settings\Jose\Escritorio\Actualización hasta 5-12\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmReproducirVideo.resources
+C:\Documents and Settings\Jose\Escritorio\Actualización hasta 5-12\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmCaja.resources
+C:\Documents and Settings\Jose\Escritorio\Actualización hasta 5-12\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmCargoAdicional.resources
+C:\Documents and Settings\Jose\Escritorio\Actualización hasta 5-12\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmConsultaCaja.resources
+C:\Documents and Settings\Jose\Escritorio\Actualización hasta 5-12\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmControlUs.resources
+C:\Documents and Settings\Jose\Escritorio\Actualización hasta 5-12\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmCuentaCorriente.resources
+C:\Documents and Settings\Jose\Escritorio\Actualización hasta 5-12\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmDialogCargoAbonoAdicional.resources
+C:\Documents and Settings\Jose\Escritorio\Actualización hasta 5-12\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmEliminarPago.resources
+C:\Documents and Settings\Jose\Escritorio\Actualización hasta 5-12\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmPerfil.resources
+C:\Documents and Settings\Jose\Escritorio\Actualización hasta 5-12\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmReporteria.resources
+C:\Documents and Settings\Jose\Escritorio\Actualización hasta 5-12\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmReporteriaPreview.resources
+C:\Documents and Settings\Jose\Escritorio\Actualización hasta 5-12\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmSelectCobroAdicional.resources
+C:\Documents and Settings\Jose\Escritorio\Actualización hasta 5-12\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmUsuarios.resources
+C:\Documents and Settings\Jose\Escritorio\Actualización hasta 5-12\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.selectCobroAdicional.resources
+C:\Documents and Settings\Jose\Escritorio\Actualización hasta 5-12\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.viewConsultaCaja.resources
+C:\Documents and Settings\Jose\Escritorio\Actualización hasta 5-12\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.viewCuentaCorriente.resources
+C:\Documents and Settings\Jose\Escritorio\Actualización hasta 5-12\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.viewRecibo.resources
+C:\Documents and Settings\Jose\Escritorio\Actualización hasta 5-12\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmAyuda.resources
+C:\Documents and Settings\Jose\Escritorio\Actualización hasta 5-12\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmLectura.resources
+C:\Documents and Settings\Jose\Escritorio\Actualización hasta 5-12\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmPagos.resources
+C:\Documents and Settings\Jose\Escritorio\Actualización hasta 5-12\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmRecibo.resources
+C:\Documents and Settings\Jose\Escritorio\Actualización hasta 5-12\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.frmReporte.resources
+C:\Documents and Settings\Jose\Escritorio\Actualización hasta 5-12\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntContador.resources
+C:\Documents and Settings\Jose\Escritorio\Actualización hasta 5-12\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntContrato.resources
+C:\Documents and Settings\Jose\Escritorio\Actualización hasta 5-12\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmSplash.resources
+C:\Documents and Settings\Jose\Escritorio\Actualización hasta 5-12\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmMenu.resources
+C:\Documents and Settings\Jose\Escritorio\Actualización hasta 5-12\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Mantenimiento.resources
+C:\Documents and Settings\Jose\Escritorio\Actualización hasta 5-12\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntPersona.resources
+C:\Documents and Settings\Jose\Escritorio\Actualización hasta 5-12\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntVariable.resources
+C:\Documents and Settings\Jose\Escritorio\Actualización hasta 5-12\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Formularios.viewReciboPago.resources
+C:\Documents and Settings\Jose\Escritorio\Actualización hasta 5-12\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmCambiarPassword.resources
+C:\Documents and Settings\Jose\Escritorio\Actualización hasta 5-12\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmControlCom.resources
+C:\Documents and Settings\Jose\Escritorio\Actualización hasta 5-12\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmPassword.resources
+C:\Documents and Settings\Jose\Escritorio\Actualización hasta 5-12\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Documents and Settings\Jose\Escritorio\Actualización hasta 5-12\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH Administracion.csproj.GenerateResource.Cache
+C:\Documents and Settings\Jose\Escritorio\Actualización hasta 5-12\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\RdlCompile.cache
+C:\Documents and Settings\Jose\Escritorio\Actualización hasta 5-12\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\RdlCompile.compiled
+C:\Documents and Settings\Jose\Escritorio\Actualización hasta 5-12\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe.config
+C:\Documents and Settings\Jose\Escritorio\Actualización hasta 5-12\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe.manifest
+C:\Documents and Settings\Jose\Escritorio\Actualización hasta 5-12\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.application
+C:\Documents and Settings\Jose\Escritorio\Actualización hasta 5-12\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe
+C:\Documents and Settings\Jose\Escritorio\Actualización hasta 5-12\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\bin\Debug\MCH_Admin.pdb
+C:\Documents and Settings\Jose\Escritorio\Actualización hasta 5-12\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\bin\Debug\AxInterop.WMPLib.dll
+C:\Documents and Settings\Jose\Escritorio\Actualización hasta 5-12\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\bin\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\Jose\Escritorio\Actualización hasta 5-12\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.exe.manifest
+C:\Documents and Settings\Jose\Escritorio\Actualización hasta 5-12\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.application
+C:\Documents and Settings\Jose\Escritorio\Actualización hasta 5-12\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.exe
+C:\Documents and Settings\Jose\Escritorio\Actualización hasta 5-12\Actualización hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.pdb

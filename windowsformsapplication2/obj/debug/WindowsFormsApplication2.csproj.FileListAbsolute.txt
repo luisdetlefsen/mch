@@ -1,0 +1,34 @@
+C:\Users\alopeza\Documents\Visual Studio 2008\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\alopeza\Documents\Visual Studio 2008\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\alopeza\Documents\Visual Studio 2008\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\alopeza\Documents\Visual Studio 2008\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\alopeza\Documents\Visual Studio 2008\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\alopeza\Documents\Visual Studio 2008\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\alopeza\Documents\Visual Studio 2008\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\alopeza\Documents\Visual Studio 2008\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\alopeza\Documents\Visual Studio 2008\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\alopeza\Documents\Visual Studio 2008\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form3.resources
+C:\Users\t213\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\t213\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\t213\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\t213\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\t213\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\t213\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\t213\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\t213\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form3.resources
+C:\Users\t213\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Mantenimiento.resources
+C:\Users\t213\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\t213\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\CARLOS\Universidad\2012\SEGUNDO CICLO\PROYECTOS DE INGENIERIA EN INFORMÁTICA Y SISTEMAS II\WindowsFormsApplication2 (1)\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\CARLOS\Universidad\2012\SEGUNDO CICLO\PROYECTOS DE INGENIERIA EN INFORMÁTICA Y SISTEMAS II\WindowsFormsApplication2 (1)\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\CARLOS\Universidad\2012\SEGUNDO CICLO\PROYECTOS DE INGENIERIA EN INFORMÁTICA Y SISTEMAS II\WindowsFormsApplication2 (1)\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\CARLOS\Universidad\2012\SEGUNDO CICLO\PROYECTOS DE INGENIERIA EN INFORMÁTICA Y SISTEMAS II\WindowsFormsApplication2 (1)\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\CARLOS\Universidad\2012\SEGUNDO CICLO\PROYECTOS DE INGENIERIA EN INFORMÁTICA Y SISTEMAS II\WindowsFormsApplication2 (1)\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\CARLOS\Universidad\2012\SEGUNDO CICLO\PROYECTOS DE INGENIERIA EN INFORMÁTICA Y SISTEMAS II\WindowsFormsApplication2 (1)\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\CARLOS\Universidad\2012\SEGUNDO CICLO\PROYECTOS DE INGENIERIA EN INFORMÁTICA Y SISTEMAS II\WindowsFormsApplication2 (1)\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\CARLOS\Universidad\2012\SEGUNDO CICLO\PROYECTOS DE INGENIERIA EN INFORMÁTICA Y SISTEMAS II\WindowsFormsApplication2 (1)\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Mantenimiento.resources
+C:\Users\CARLOS\Universidad\2012\SEGUNDO CICLO\PROYECTOS DE INGENIERIA EN INFORMÁTICA Y SISTEMAS II\WindowsFormsApplication2 (1)\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\CARLOS\Universidad\2012\SEGUNDO CICLO\PROYECTOS DE INGENIERIA EN INFORMÁTICA Y SISTEMAS II\WindowsFormsApplication2 (1)\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\CARLOS\Universidad\2012\SEGUNDO CICLO\PROYECTOS DE INGENIERIA EN INFORMÁTICA Y SISTEMAS II\WindowsFormsApplication2 (1)\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mntPersona.resources
+C:\Documents and Settings\hidroelectrica\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Documents and Settings\hidroelectrica\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
