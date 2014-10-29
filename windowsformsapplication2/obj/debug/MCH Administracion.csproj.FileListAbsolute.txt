@@ -1088,6 +1088,3 @@ C:\Documents and Settings\Jose\Escritorio\Actualizaci처n hasta 5-12\Actualizaci�
 C:\Documents and Settings\Jose\Escritorio\Actualizaci처n hasta 5-12\Actualizaci처n hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.application
 C:\Documents and Settings\Jose\Escritorio\Actualizaci처n hasta 5-12\Actualizaci처n hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.exe
 C:\Documents and Settings\Jose\Escritorio\Actualizaci처n hasta 5-12\Actualizaci처n hasta 5-12\MCH Solucion\WindowsFormsApplication2\obj\Debug\MCH_Admin.pdb
-C:\Users\x64\Documents\GitHub\mch\WindowsFormsApplication2\bin\Debug\MCH_Admin.exe.config
-C:\Users\x64\Documents\GitHub\mch\WindowsFormsApplication2\obj\Debug\Interop.WMPLib.dll
-C:\Users\x64\Documents\GitHub\mch\WindowsFormsApplication2\obj\Debug\MCH Administracion.csproj.ResolveComReference.cache

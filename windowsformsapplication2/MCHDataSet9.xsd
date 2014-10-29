@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="MCHDataSet9" targetNamespace="http://tempuri.org/MCHDataSet9.xsd" xmlns:mstns="http://tempuri.org/MCHDataSet9.xsd" xmlns="http://tempuri.org/MCHDataSet9.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="MCHConnectionString3" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="MCHConnectionString3 (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.WindowsFormsApplication2.Properties.Settings.GlobalReference.Default.MCHConnectionString3" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="v_Reporte_comunidadTableAdapter" GeneratorDataComponentClassName="v_Reporte_comunidadTableAdapter" Name="v_Reporte_comunidad" UserDataComponentName="v_Reporte_comunidadTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="MCHConnectionString3 (Settings)" DbObjectName="mch.dbo.v_Reporte_comunidad" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT Nombre, Codigo, Lectura_anterior, Lectura_actual, Total_de_consumo, Precio_KW, Total, Cuota_fija, Alumbrado_publico, IVA, Total_a_pagar, Fecha_de_pago, comunidad FROM dbo.v_Reporte_comunidad</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Nombre" DataSetColumn="Nombre" />
+              <Mapping SourceColumn="Codigo" DataSetColumn="Codigo" />
+              <Mapping SourceColumn="Lectura_anterior" DataSetColumn="Lectura_anterior" />
+              <Mapping SourceColumn="Lectura_actual" DataSetColumn="Lectura_actual" />
+              <Mapping SourceColumn="Total_de_consumo" DataSetColumn="Total_de_consumo" />
+              <Mapping SourceColumn="Precio_KW" DataSetColumn="Precio_KW" />
+              <Mapping SourceColumn="Total" DataSetColumn="Total" />
+              <Mapping SourceColumn="Cuota_fija" DataSetColumn="Cuota_fija" />
+              <Mapping SourceColumn="Alumbrado_publico" DataSetColumn="Alumbrado_publico" />
+              <Mapping SourceColumn="IVA" DataSetColumn="IVA" />
+              <Mapping SourceColumn="Total_a_pagar" DataSetColumn="Total_a_pagar" />
+              <Mapping SourceColumn="Fecha_de_pago" DataSetColumn="Fecha_de_pago" />
+              <Mapping SourceColumn="comunidad" DataSetColumn="comunidad" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="MCHDataSet9" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="MCHDataSet9" msprop:Generator_UserDSName="MCHDataSet9" msprop:EnableTableAdapterManager="True">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="v_Reporte_comunidad" msprop:Generator_UserTableName="v_Reporte_comunidad" msprop:Generator_RowDeletedName="v_Reporte_comunidadRowDeleted" msprop:Generator_TableClassName="v_Reporte_comunidadDataTable" msprop:Generator_RowChangedName="v_Reporte_comunidadRowChanged" msprop:Generator_RowClassName="v_Reporte_comunidadRow" msprop:Generator_RowChangingName="v_Reporte_comunidadRowChanging" msprop:Generator_RowEvArgName="v_Reporte_comunidadRowChangeEvent" msprop:Generator_RowEvHandlerName="v_Reporte_comunidadRowChangeEventHandler" msprop:Generator_TablePropName="v_Reporte_comunidad" msprop:Generator_TableVarName="tablev_Reporte_comunidad" msprop:Generator_RowDeletingName="v_Reporte_comunidadRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Nombre" msprop:Generator_UserColumnName="Nombre" msprop:Generator_ColumnPropNameInRow="Nombre" msprop:Generator_ColumnVarNameInTable="columnNombre" msprop:Generator_ColumnPropNameInTable="NombreColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Codigo" msprop:Generator_UserColumnName="Codigo" msprop:Generator_ColumnPropNameInRow="Codigo" msprop:Generator_ColumnVarNameInTable="columnCodigo" msprop:Generator_ColumnPropNameInTable="CodigoColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="25" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Lectura_anterior" msprop:Generator_UserColumnName="Lectura_anterior" msprop:Generator_ColumnPropNameInRow="Lectura_anterior" msprop:Generator_ColumnVarNameInTable="columnLectura_anterior" msprop:Generator_ColumnPropNameInTable="Lectura_anteriorColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="Lectura_actual" msprop:Generator_UserColumnName="Lectura_actual" msprop:Generator_ColumnPropNameInRow="Lectura_actual" msprop:Generator_ColumnVarNameInTable="columnLectura_actual" msprop:Generator_ColumnPropNameInTable="Lectura_actualColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="Total_de_consumo" msdata:ReadOnly="true" msprop:Generator_UserColumnName="Total_de_consumo" msprop:Generator_ColumnPropNameInRow="Total_de_consumo" msprop:Generator_ColumnVarNameInTable="columnTotal_de_consumo" msprop:Generator_ColumnPropNameInTable="Total_de_consumoColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="Precio_KW" msprop:Generator_UserColumnName="Precio_KW" msprop:Generator_ColumnPropNameInRow="Precio_KW" msprop:Generator_ColumnVarNameInTable="columnPrecio_KW" msprop:Generator_ColumnPropNameInTable="Precio_KWColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="Total" msdata:ReadOnly="true" msprop:Generator_UserColumnName="Total" msprop:Generator_ColumnPropNameInRow="Total" msprop:Generator_ColumnVarNameInTable="columnTotal" msprop:Generator_ColumnPropNameInTable="TotalColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="Cuota_fija" msprop:Generator_UserColumnName="Cuota_fija" msprop:Generator_ColumnPropNameInRow="Cuota_fija" msprop:Generator_ColumnVarNameInTable="columnCuota_fija" msprop:Generator_ColumnPropNameInTable="Cuota_fijaColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="Alumbrado_publico" msdata:ReadOnly="true" msprop:Generator_UserColumnName="Alumbrado_publico" msprop:Generator_ColumnPropNameInRow="Alumbrado_publico" msprop:Generator_ColumnVarNameInTable="columnAlumbrado_publico" msprop:Generator_ColumnPropNameInTable="Alumbrado_publicoColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="1" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="IVA" msdata:ReadOnly="true" msprop:Generator_UserColumnName="IVA" msprop:Generator_ColumnPropNameInRow="IVA" msprop:Generator_ColumnVarNameInTable="columnIVA" msprop:Generator_ColumnPropNameInTable="IVAColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="1" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Total_a_pagar" msdata:ReadOnly="true" msprop:Generator_UserColumnName="Total_a_pagar" msprop:Generator_ColumnPropNameInRow="Total_a_pagar" msprop:Generator_ColumnVarNameInTable="columnTotal_a_pagar" msprop:Generator_ColumnPropNameInTable="Total_a_pagarColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="Fecha_de_pago" msdata:ReadOnly="true" msprop:Generator_UserColumnName="Fecha_de_pago" msprop:Generator_ColumnPropNameInRow="Fecha_de_pago" msprop:Generator_ColumnVarNameInTable="columnFecha_de_pago" msprop:Generator_ColumnPropNameInTable="Fecha_de_pagoColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="1" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="comunidad" msprop:Generator_UserColumnName="comunidad" msprop:Generator_ColumnPropNameInRow="comunidad" msprop:Generator_ColumnVarNameInTable="columncomunidad" msprop:Generator_ColumnPropNameInTable="comunidadColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

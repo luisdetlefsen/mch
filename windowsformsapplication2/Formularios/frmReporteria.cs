@@ -1476,6 +1476,25 @@ namespace WindowsFormsApplication2
                 string definicionReporte = ((ItemReporte)rcReportes.SelectedItem).Definicion.ToString();
                 switch (definicionReporte)
                 {
+                    case "ReporteComunidad.rdlc":
+                        {
+                            Parametros = new ReportParameter[13];
+                            Parametros[0] = new ReportParameter("Nombre", (!camposVisibles.Contains("Nombre")).ToString());
+                            Parametros[1] = new ReportParameter("Codigo", (!camposVisibles.Contains("Codigo")).ToString());
+                            Parametros[2] = new ReportParameter("Lectura_anterior", (!camposVisibles.Contains("Lectura_anterior")).ToString());
+                            Parametros[3] = new ReportParameter("Lectura_actual", (!camposVisibles.Contains("Lectura_actual")).ToString());
+                            Parametros[4] = new ReportParameter("Total_de_consumo", (!camposVisibles.Contains("Total_de_consumo")).ToString());
+                            Parametros[5] = new ReportParameter("Precio_KW", (!camposVisibles.Contains("Precio_KW")).ToString());
+                            Parametros[6] = new ReportParameter("Total", (!camposVisibles.Contains("Total")).ToString());
+                            Parametros[7] = new ReportParameter("Cuota_fija", (!camposVisibles.Contains("Cuota_fija")).ToString());
+                            Parametros[8] = new ReportParameter("Alumbrado_publico", (!camposVisibles.Contains("Alumbrado_publico")).ToString());
+                            Parametros[9] = new ReportParameter("IVA", (!camposVisibles.Contains("IVA")).ToString());
+                            Parametros[10] = new ReportParameter("Total_a_pagar", (!camposVisibles.Contains("Total_a_pagar")).ToString());
+                            Parametros[11] = new ReportParameter("Fecha_de_pago", (!camposVisibles.Contains("Fecha_de_pago")).ToString());
+                            Parametros[12] = new ReportParameter("comunidad", (!camposVisibles.Contains("comunidad")).ToString());
+                            break;
+                        }
+
                     case "RstatusPago.rdlc":
                         {
                             Parametros = new ReportParameter[12];
@@ -1532,7 +1551,8 @@ namespace WindowsFormsApplication2
             }
             catch (Exception exc)
             {
-
+                Console.WriteLine(exc.InnerException);
+                
             }
             finally
             {
@@ -1554,3 +1574,4 @@ namespace WindowsFormsApplication2
         }
     }
 }
+

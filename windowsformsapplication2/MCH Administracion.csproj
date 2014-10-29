@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProductVersion>9.0.21022</ProductVersion>
+    <ProductVersion>9.0.30729</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{787E4229-1E97-4C83-9165-22388542068F}</ProjectGuid>
     <OutputType>WinExe</OutputType>
@@ -438,6 +438,11 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>MCHDataSet8.xsd</DependentUpon>
     </Compile>
+    <Compile Include="MCHDataSet9.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MCHDataSet9.xsd</DependentUpon>
+    </Compile>
     <Compile Include="MCHReporteEstadoCta.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -669,6 +674,7 @@
     </EmbeddedResource>
     <EmbeddedResource Include="RConsumoComunidad.rdlc" />
     <EmbeddedResource Include="ReciboDePago.rdlc" />
+    <EmbeddedResource Include="ReporteComunidad.rdlc" />
     <EmbeddedResource Include="RestadoCta.rdlc" />
     <EmbeddedResource Include="REstadoCuenta.rdlc" />
     <EmbeddedResource Include="RstatusPago.rdlc" />
@@ -823,6 +829,17 @@
     </None>
     <None Include="MCHDataSet8.xss">
       <DependentUpon>MCHDataSet8.xsd</DependentUpon>
+    </None>
+    <None Include="MCHDataSet9.xsc">
+      <DependentUpon>MCHDataSet9.xsd</DependentUpon>
+    </None>
+    <None Include="MCHDataSet9.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>MCHDataSet9.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="MCHDataSet9.xss">
+      <DependentUpon>MCHDataSet9.xsd</DependentUpon>
     </None>
     <None Include="MCHReporteEstadoCta.xsc">
       <DependentUpon>MCHReporteEstadoCta.xsd</DependentUpon>
