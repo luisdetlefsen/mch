@@ -1,6 +1,7 @@
 USE [mch]
 GO
 
+/****** Object:  View [dbo].[v_Reporte_comunidad]    Script Date: 11/05/2014 13:36:22 ******/
 SET ANSI_NULLS ON
 GO
 
@@ -8,20 +9,22 @@ SET QUOTED_IDENTIFIER ON
 GO
 
 
+
 CREATE VIEW [dbo].[v_Reporte_comunidad]
 AS
+
 
 select a.Nombre
 	, a.[Código] as [Codigo]
 	, a.[Lectura anterior] as [Lectura_anterior]
 	, a.[Lectura actual] as [Lectura_actual]
 	, [lectura actual] - [lectura anterior] as [Total_de_consumo]
-	, [Precio de KW] as [Precio_KW]
+	, 'Q. ' + cast([Precio de KW] as varchar(20)) as [Precio_KW]
 	, ([lectura actual] - [lectura anterior])*[Precio de KW] as [Total]
-	, [Cuota fija] as [Cuota_fija]
+	, 'Q. ' + cast([Cuota fija]  as varchar(20)) as [Cuota_fija]
 	, '' as [Alumbrado_publico]
-	, '' as [IVA]
-	, [Cuota fija] + ([lectura actual] - [lectura anterior])*[Precio de KW]  as [Total_a_pagar] 
+	, '' as [IVA] 
+	, 'Q. ' + cast([Cuota fija] + ([lectura actual] - [lectura anterior])*[Precio de KW] as varchar(20))  as [Total_a_pagar] 
 	, '' as [Fecha_de_pago]
 	, [comunidad] 
 from (
@@ -37,6 +40,7 @@ from (
 	and persona.id_comunidad = comunidad.id_comunidad		
 )a
 where [Lectura actual] is not null
+
 
 GO
 
