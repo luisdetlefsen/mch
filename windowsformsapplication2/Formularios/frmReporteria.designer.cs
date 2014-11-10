@@ -1112,7 +1112,7 @@
             this.ShowIcon = false;
             this.ShowInTaskbar = false;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
-            this.Text = "Crear usuario";
+            this.Text = "Generar reporte";
             this.Load += new System.EventHandler(this.frmReporteria_Load);
             this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.frmReporteria_FormClosed);
             this.tabControl1.ResumeLayout(false);

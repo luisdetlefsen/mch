@@ -46,7 +46,7 @@
             this.ClientSize = new System.Drawing.Size(292, 273);
             this.Controls.Add(this.reportViewer1);
             this.Name = "frmReporteriaPreview";
-            this.Text = "frmReporteriaPreview";
+            this.Text = "Reporte";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.Load += new System.EventHandler(this.frmReporteriaPreview_Load);
             this.ResumeLayout(false);

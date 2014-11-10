@@ -627,6 +627,7 @@
                           <Default>Solid</Default>
                         </BorderStyle>
                         <FontFamily>Tahoma</FontFamily>
+                        <TextAlign>Center</TextAlign>
                         <PaddingLeft>2pt</PaddingLeft>
                         <PaddingRight>2pt</PaddingRight>
                         <PaddingTop>2pt</PaddingTop>
@@ -649,6 +650,7 @@
                           <Default>Solid</Default>
                         </BorderStyle>
                         <FontFamily>Tahoma</FontFamily>
+                        <TextAlign>Center</TextAlign>
                         <PaddingLeft>2pt</PaddingLeft>
                         <PaddingRight>2pt</PaddingRight>
                         <PaddingTop>2pt</PaddingTop>
@@ -671,6 +673,7 @@
                           <Default>Solid</Default>
                         </BorderStyle>
                         <FontFamily>Tahoma</FontFamily>
+                        <TextAlign>Center</TextAlign>
                         <PaddingLeft>2pt</PaddingLeft>
                         <PaddingRight>2pt</PaddingRight>
                         <PaddingTop>2pt</PaddingTop>
@@ -693,6 +696,7 @@
                           <Default>Solid</Default>
                         </BorderStyle>
                         <FontFamily>Tahoma</FontFamily>
+                        <TextAlign>Center</TextAlign>
                         <PaddingLeft>2pt</PaddingLeft>
                         <PaddingRight>2pt</PaddingRight>
                         <PaddingTop>2pt</PaddingTop>
@@ -715,6 +719,7 @@
                           <Default>Solid</Default>
                         </BorderStyle>
                         <FontFamily>Tahoma</FontFamily>
+                        <TextAlign>Center</TextAlign>
                         <PaddingLeft>2pt</PaddingLeft>
                         <PaddingRight>2pt</PaddingRight>
                         <PaddingTop>2pt</PaddingTop>
@@ -737,6 +742,7 @@
                           <Default>Solid</Default>
                         </BorderStyle>
                         <FontFamily>Tahoma</FontFamily>
+                        <TextAlign>Center</TextAlign>
                         <PaddingLeft>2pt</PaddingLeft>
                         <PaddingRight>2pt</PaddingRight>
                         <PaddingTop>2pt</PaddingTop>
@@ -759,6 +765,7 @@
                           <Default>Solid</Default>
                         </BorderStyle>
                         <FontFamily>Tahoma</FontFamily>
+                        <TextAlign>Center</TextAlign>
                         <PaddingLeft>2pt</PaddingLeft>
                         <PaddingRight>2pt</PaddingRight>
                         <PaddingTop>2pt</PaddingTop>
@@ -781,6 +788,7 @@
                           <Default>Solid</Default>
                         </BorderStyle>
                         <FontFamily>Tahoma</FontFamily>
+                        <TextAlign>Center</TextAlign>
                         <PaddingLeft>2pt</PaddingLeft>
                         <PaddingRight>2pt</PaddingRight>
                         <PaddingTop>2pt</PaddingTop>
@@ -803,6 +811,7 @@
                           <Default>Solid</Default>
                         </BorderStyle>
                         <FontFamily>Tahoma</FontFamily>
+                        <TextAlign>Center</TextAlign>
                         <PaddingLeft>2pt</PaddingLeft>
                         <PaddingRight>2pt</PaddingRight>
                         <PaddingTop>2pt</PaddingTop>
@@ -825,6 +834,7 @@
                           <Default>Solid</Default>
                         </BorderStyle>
                         <FontFamily>Tahoma</FontFamily>
+                        <TextAlign>Center</TextAlign>
                         <PaddingLeft>2pt</PaddingLeft>
                         <PaddingRight>2pt</PaddingRight>
                         <PaddingTop>2pt</PaddingTop>
@@ -938,7 +948,7 @@
                         <FontFamily>Tahoma</FontFamily>
                         <FontSize>11pt</FontSize>
                         <FontWeight>700</FontWeight>
-                        <TextAlign>Right</TextAlign>
+                        <TextAlign>Left</TextAlign>
                         <PaddingLeft>2pt</PaddingLeft>
                         <PaddingRight>2pt</PaddingRight>
                         <PaddingTop>2pt</PaddingTop>
@@ -965,7 +975,7 @@
                         <FontFamily>Tahoma</FontFamily>
                         <FontSize>11pt</FontSize>
                         <FontWeight>700</FontWeight>
-                        <TextAlign>Right</TextAlign>
+                        <TextAlign>Left</TextAlign>
                         <PaddingLeft>2pt</PaddingLeft>
                         <PaddingRight>2pt</PaddingRight>
                         <PaddingTop>2pt</PaddingTop>
@@ -992,7 +1002,7 @@
                         <FontFamily>Tahoma</FontFamily>
                         <FontSize>11pt</FontSize>
                         <FontWeight>700</FontWeight>
-                        <TextAlign>Right</TextAlign>
+                        <TextAlign>Left</TextAlign>
                         <PaddingLeft>2pt</PaddingLeft>
                         <PaddingRight>2pt</PaddingRight>
                         <PaddingTop>2pt</PaddingTop>
@@ -1019,7 +1029,7 @@
                         <FontFamily>Tahoma</FontFamily>
                         <FontSize>11pt</FontSize>
                         <FontWeight>700</FontWeight>
-                        <TextAlign>Right</TextAlign>
+                        <TextAlign>Left</TextAlign>
                         <PaddingLeft>2pt</PaddingLeft>
                         <PaddingRight>2pt</PaddingRight>
                         <PaddingTop>2pt</PaddingTop>
@@ -1046,7 +1056,7 @@
                         <FontFamily>Tahoma</FontFamily>
                         <FontSize>11pt</FontSize>
                         <FontWeight>700</FontWeight>
-                        <TextAlign>Right</TextAlign>
+                        <TextAlign>Left</TextAlign>
                         <PaddingLeft>2pt</PaddingLeft>
                         <PaddingRight>2pt</PaddingRight>
                         <PaddingTop>2pt</PaddingTop>
@@ -1073,7 +1083,7 @@
                         <FontFamily>Tahoma</FontFamily>
                         <FontSize>11pt</FontSize>
                         <FontWeight>700</FontWeight>
-                        <TextAlign>Right</TextAlign>
+                        <TextAlign>Left</TextAlign>
                         <PaddingLeft>2pt</PaddingLeft>
                         <PaddingRight>2pt</PaddingRight>
                         <PaddingTop>2pt</PaddingTop>
@@ -1100,6 +1110,7 @@
                         <FontFamily>Tahoma</FontFamily>
                         <FontSize>11pt</FontSize>
                         <FontWeight>700</FontWeight>
+                        <TextAlign>Left</TextAlign>
                         <PaddingLeft>2pt</PaddingLeft>
                         <PaddingRight>2pt</PaddingRight>
                         <PaddingTop>2pt</PaddingTop>
@@ -1126,6 +1137,7 @@
                         <FontFamily>Tahoma</FontFamily>
                         <FontSize>11pt</FontSize>
                         <FontWeight>700</FontWeight>
+                        <TextAlign>Left</TextAlign>
                         <PaddingLeft>2pt</PaddingLeft>
                         <PaddingRight>2pt</PaddingRight>
                         <PaddingTop>2pt</PaddingTop>
@@ -1152,7 +1164,7 @@
                         <FontFamily>Tahoma</FontFamily>
                         <FontSize>11pt</FontSize>
                         <FontWeight>700</FontWeight>
-                        <TextAlign>Right</TextAlign>
+                        <TextAlign>Left</TextAlign>
                         <PaddingLeft>2pt</PaddingLeft>
                         <PaddingRight>2pt</PaddingRight>
                         <PaddingTop>2pt</PaddingTop>
@@ -1179,6 +1191,7 @@
                         <FontFamily>Tahoma</FontFamily>
                         <FontSize>11pt</FontSize>
                         <FontWeight>700</FontWeight>
+                        <TextAlign>Left</TextAlign>
                         <PaddingLeft>2pt</PaddingLeft>
                         <PaddingRight>2pt</PaddingRight>
                         <PaddingTop>2pt</PaddingTop>
